@@ -1548,12 +1548,6 @@
     },
     "done": true
   },
-  "apotheosis:give_book": {
-    "criteria": {
-      "tick": "2024-04-12 00:08:28 +0100"
-    },
-    "done": true
-  },
   "ars_nouveau:recipes/misc/ritual_wilden_summon": {
     "criteria": {
       "has_journal": "2024-04-12 00:08:28 +0100"
@@ -9724,6 +9718,7 @@
   },
   "regions_unexplored:got_wood": {
     "criteria": {
+      "silver_birch_log": "2024-04-13 03:20:26 +0100",
       "maple_log": "2024-04-12 20:42:39 +0100"
     },
     "done": false
@@ -11237,75 +11232,93 @@
   },
   "incendium:technical/sentrys_wrath": {
     "criteria": {
-      "log_spam_fixer": "2024-04-12 22:27:51 +0100"
+      "log_spam_fixer": "2024-04-13 03:20:24 +0100"
     },
     "done": false
   },
   "incendium:technical/on_block": {
     "criteria": {
-      "log_spam_fixer": "2024-04-12 22:27:51 +0100"
+      "log_spam_fixer": "2024-04-13 03:20:24 +0100"
     },
     "done": false
   },
   "incendium:technical/feed_ghastling": {
     "criteria": {
-      "log_spam_fixer": "2024-04-12 22:27:51 +0100"
+      "log_spam_fixer": "2024-04-13 03:20:24 +0100"
     },
     "done": false
   },
   "incendium:technical/multiplex_crossbow": {
     "criteria": {
-      "log_spam_fixer": "2024-04-12 22:27:51 +0100"
+      "log_spam_fixer": "2024-04-13 03:20:24 +0100"
     },
     "done": false
   },
   "incendium:technical/on_player_hurt": {
     "criteria": {
-      "log_spam_fixer": "2024-04-12 22:27:51 +0100"
+      "log_spam_fixer": "2024-04-13 03:20:24 +0100"
     },
     "done": false
   },
   "incendium:technical/on_kill": {
     "criteria": {
-      "log_spam_fixer": "2024-04-12 22:27:51 +0100"
+      "log_spam_fixer": "2024-04-13 03:20:24 +0100"
     },
     "done": false
   },
   "incendium:technical/on_inventory_change": {
     "criteria": {
-      "log_spam_fixer": "2024-04-12 22:27:51 +0100"
+      "log_spam_fixer": "2024-04-13 03:20:24 +0100"
     },
     "done": false
   },
   "incendium:technical/holy_wrath": {
     "criteria": {
-      "log_spam_fixer": "2024-04-12 22:27:51 +0100"
+      "log_spam_fixer": "2024-04-13 03:20:24 +0100"
     },
     "done": false
   },
   "incendium:technical/inventory/firestorm": {
     "criteria": {
-      "log_spam_fixer": "2024-04-12 22:27:51 +0100"
+      "log_spam_fixer": "2024-04-13 03:20:24 +0100"
     },
     "done": false
   },
   "incendium:technical/give_ghastling": {
     "criteria": {
-      "log_spam_fixer": "2024-04-12 22:27:51 +0100"
+      "log_spam_fixer": "2024-04-13 03:20:24 +0100"
     },
     "done": false
   },
   "incendium:technical/inventory/sentrys_wrath": {
     "criteria": {
-      "log_spam_fixer": "2024-04-12 22:27:51 +0100"
+      "log_spam_fixer": "2024-04-13 03:20:24 +0100"
     },
     "done": false
   },
   "incendium:technical/firestorm": {
     "criteria": {
-      "log_spam_fixer": "2024-04-12 22:27:51 +0100"
+      "log_spam_fixer": "2024-04-13 03:20:24 +0100"
     },
     "done": false
+  },
+  "regions_unexplored:recipes/decorations/silver_birch_branch_from_silver_birch_log": {
+    "criteria": {
+      "has_log": "2024-04-13 03:20:26 +0100"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/birch_planks": {
+    "criteria": {
+      "has_logs": "2024-04-13 03:20:26 +0100"
+    },
+    "done": true
+  },
+  "regions_unexplored:recipes/building_blocks/silver_birch_wood": {
+    "criteria": {
+      "has_log": "2024-04-13 03:20:26 +0100"
+    },
+    "done": true
   },
   "DataVersion": 3465
 }
