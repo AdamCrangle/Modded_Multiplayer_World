@@ -1288,6 +1288,7 @@
       "muddy_river": "2024-04-13 08:39:23 +0100",
       "prismachasm": "2024-04-12 21:42:08 +0100",
       "redstone_caves": "2024-04-12 21:30:47 +0100",
+      "rocky_meadow": "2024-04-15 01:25:41 +0100",
       "maple_forest": "2024-04-13 10:01:05 +0100",
       "towering_cliffs": "2024-04-12 00:35:03 +0100",
       "temperate_grove": "2024-04-13 08:47:48 +0100",
@@ -1356,6 +1357,7 @@
       "fen": "2024-04-12 01:05:01 +0100",
       "autumnal_maple_forest": "2024-04-12 00:10:43 +0100",
       "muddy_river": "2024-04-13 08:39:23 +0100",
+      "rocky_meadow": "2024-04-15 01:25:41 +0100",
       "maple_forest": "2024-04-13 10:01:05 +0100",
       "towering_cliffs": "2024-04-12 00:35:03 +0100",
       "temperate_grove": "2024-04-13 08:47:48 +0100",
@@ -5408,6 +5410,7 @@
       "porkchop": "2024-04-12 21:38:30 +0100",
       "apple": "2024-04-12 00:16:52 +0100",
       "potato": "2024-04-12 00:20:10 +0100",
+      "cooked_cod": "2024-04-14 23:37:23 +0100",
       "bread": "2024-04-12 22:12:28 +0100",
       "cooked_chicken": "2024-04-14 08:09:07 +0100",
       "cooked_salmon": "2024-04-12 21:47:03 +0100"
@@ -6268,6 +6271,8 @@
       "minecraft:swamp": "2024-04-14 03:21:08 +0100",
       "minecraft:lush_caves": "2024-04-14 00:22:57 +0100",
       "minecraft:ocean": "2024-04-13 08:48:37 +0100",
+      "minecraft:windswept_savanna": "2024-04-15 01:22:04 +0100",
+      "minecraft:flower_forest": "2024-04-15 01:25:07 +0100",
       "minecraft:plains": "2024-04-14 03:02:03 +0100"
     },
     "done": false
@@ -6695,6 +6700,7 @@
       "spider_nest": "2024-04-12 01:17:42 +0100",
       "seasonal_orchard": "2024-04-12 00:37:42 +0100",
       "seasonal_forest": "2024-04-13 08:45:27 +0100",
+      "lavender_field": "2024-04-15 01:21:30 +0100",
       "fir_clearing": "2024-04-12 00:52:57 +0100"
     },
     "done": false
@@ -15104,79 +15110,79 @@
     },
     "done": true
   },
-  "incendium:technical/sentrys_wrath": {
-    "criteria": {
-      "log_spam_fixer": "2024-04-14 08:11:00 +0100"
-    },
-    "done": false
-  },
-  "incendium:technical/on_block": {
-    "criteria": {
-      "log_spam_fixer": "2024-04-14 08:11:00 +0100"
-    },
-    "done": false
-  },
-  "incendium:technical/feed_ghastling": {
-    "criteria": {
-      "log_spam_fixer": "2024-04-14 08:11:00 +0100"
-    },
-    "done": false
-  },
-  "incendium:technical/multiplex_crossbow": {
-    "criteria": {
-      "log_spam_fixer": "2024-04-14 08:11:00 +0100"
-    },
-    "done": false
-  },
-  "incendium:technical/on_player_hurt": {
-    "criteria": {
-      "log_spam_fixer": "2024-04-14 08:11:00 +0100"
-    },
-    "done": false
-  },
-  "incendium:technical/on_kill": {
-    "criteria": {
-      "log_spam_fixer": "2024-04-14 08:11:00 +0100"
-    },
-    "done": false
-  },
-  "incendium:technical/on_inventory_change": {
-    "criteria": {
-      "log_spam_fixer": "2024-04-14 08:11:00 +0100"
-    },
-    "done": false
-  },
-  "incendium:technical/holy_wrath": {
-    "criteria": {
-      "log_spam_fixer": "2024-04-14 08:11:00 +0100"
-    },
-    "done": false
-  },
-  "incendium:technical/inventory/firestorm": {
-    "criteria": {
-      "log_spam_fixer": "2024-04-14 08:11:00 +0100"
-    },
-    "done": false
-  },
-  "incendium:technical/give_ghastling": {
-    "criteria": {
-      "log_spam_fixer": "2024-04-14 08:11:00 +0100"
-    },
-    "done": false
-  },
-  "incendium:technical/inventory/sentrys_wrath": {
-    "criteria": {
-      "log_spam_fixer": "2024-04-14 08:11:00 +0100"
-    },
-    "done": false
-  },
-  "incendium:technical/firestorm": {
-    "criteria": {
-      "log_spam_fixer": "2024-04-14 08:11:00 +0100"
-    },
-    "done": false
-  },
   "kawaiidishes:recipes/misc/lime_headband_horns_gray": {
+    "criteria": {
+      "has_lime_headband": "2024-04-14 02:54:24 +0100"
+    },
+    "done": true
+  },
+  "kawaiidishes:recipes/misc/lime_headband_bunny_ears_white": {
+    "criteria": {
+      "has_lime_headband": "2024-04-14 02:54:24 +0100"
+    },
+    "done": true
+  },
+  "kawaiidishes:recipes/misc/lime_headband_fox_ears_brown": {
+    "criteria": {
+      "has_lime_headband": "2024-04-14 02:54:24 +0100"
+    },
+    "done": true
+  },
+  "kawaiidishes:recipes/misc/lime_headband_fox_ears_black": {
+    "criteria": {
+      "has_lime_headband": "2024-04-14 02:54:24 +0100"
+    },
+    "done": true
+  },
+  "kawaiidishes:recipes/misc/lime_headband_horns_light_gray": {
+    "criteria": {
+      "has_lime_headband": "2024-04-14 02:54:24 +0100"
+    },
+    "done": true
+  },
+  "kawaiidishes:recipes/misc/lime_headband_horns_black": {
+    "criteria": {
+      "has_lime_headband": "2024-04-14 02:54:24 +0100"
+    },
+    "done": true
+  },
+  "kawaiidishes:recipes/misc/lime_headband_cat_ears_white": {
+    "criteria": {
+      "has_lime_headband": "2024-04-14 02:54:24 +0100"
+    },
+    "done": true
+  },
+  "kawaiidishes:recipes/misc/lime_headband_bunny_ears_black": {
+    "criteria": {
+      "has_lime_headband": "2024-04-14 02:54:24 +0100"
+    },
+    "done": true
+  },
+  "kawaiidishes:recipes/misc/lime_headband_horns_red": {
+    "criteria": {
+      "has_lime_headband": "2024-04-14 02:54:24 +0100"
+    },
+    "done": true
+  },
+  "kawaiidishes:recipes/misc/lime_headband_fox_ears_red": {
+    "criteria": {
+      "has_lime_headband": "2024-04-14 02:54:24 +0100"
+    },
+    "done": true
+  },
+  "kawaiidishes:recipes/misc/lime_headband_horns_purple": {
+    "criteria": {
+      "has_lime_headband": "2024-04-14 02:54:24 +0100"
+    },
+    "done": true
+  },
+  "kawaiidishes:recipes/misc/lime_headband_cat_ears_black": {
+    "criteria": {
+      "has_lime_headband": "2024-04-14 02:54:24 +0100"
+    },
+    "done": true
+  },
+  "kawaiidishes:recipes/misc/lime_headband_horns_white": {
     "criteria": {
       "has_lime_headband": "2024-04-14 02:54:24 +0100"
     },
@@ -15188,63 +15194,9 @@
     },
     "done": true
   },
-  "iceandfire:recipes/misc/dragon_bone_wall": {
-    "criteria": {
-      "has_item": "2024-04-14 03:05:41 +0100"
-    },
-    "done": true
-  },
-  "kawaiidishes:recipes/glow_berry_milkshake_from_blending": {
-    "criteria": {
-      "has_milk_bucket": "2024-04-14 03:05:08 +0100"
-    },
-    "done": true
-  },
-  "kawaiidishes:recipes/cream_milkshake_from_blending": {
-    "criteria": {
-      "has_milk_bucket": "2024-04-14 03:05:08 +0100"
-    },
-    "done": true
-  },
-  "kawaiidishes:recipes/misc/lime_headband_bunny_ears_white": {
-    "criteria": {
-      "has_lime_headband": "2024-04-14 02:54:24 +0100"
-    },
-    "done": true
-  },
-  "createdeco:recipes/decorations/brown_placard_from_dyeing": {
-    "criteria": {
-      "has_dye": "2024-04-14 06:42:03 +0100"
-    },
-    "done": true
-  },
-  "kawaiidishes:recipes/sweet_berry_milkshake_from_blending": {
-    "criteria": {
-      "has_milk_bucket": "2024-04-14 03:05:08 +0100"
-    },
-    "done": true
-  },
-  "iceandfire:recipes/building_blocks/dragon_bone_block": {
-    "criteria": {
-      "has_dragonbone": "2024-04-14 03:05:41 +0100"
-    },
-    "done": true
-  },
   "kawaiidishes:recipes/misc/orange_maid_dress_bunny_tail_caramel": {
     "criteria": {
       "has_orange_maid_dress": "2024-04-14 02:55:58 +0100"
-    },
-    "done": true
-  },
-  "kawaiidishes:recipes/misc/lime_headband_fox_ears_brown": {
-    "criteria": {
-      "has_lime_headband": "2024-04-14 02:54:24 +0100"
-    },
-    "done": true
-  },
-  "mca:root": {
-    "criteria": {
-      "village_plains": "2024-04-14 03:02:09 +0100"
     },
     "done": true
   },
@@ -15254,39 +15206,9 @@
     },
     "done": true
   },
-  "minecraft:recipes/food/dried_cocoa_beans_from_smoking": {
-    "criteria": {
-      "has_cocoa_beans": "2024-04-14 06:41:59 +0100"
-    },
-    "done": true
-  },
   "kawaiidishes:recipes/misc/orange_maid_dress_fox_tail_brown": {
     "criteria": {
       "has_orange_maid_dress": "2024-04-14 02:55:58 +0100"
-    },
-    "done": true
-  },
-  "kawaiidishes:recipes/brigadeiro_mix_from_blending": {
-    "criteria": {
-      "has_cocoa_powder": "2024-04-14 03:05:06 +0100"
-    },
-    "done": true
-  },
-  "farmersdelight:recipes/food/barbecue_stick": {
-    "criteria": {
-      "has_onion": "2024-04-14 03:06:11 +0100"
-    },
-    "done": true
-  },
-  "iceandfire:recipes/misc/bestiary": {
-    "criteria": {
-      "has_item": "2024-04-14 03:05:37 +0100"
-    },
-    "done": true
-  },
-  "kawaiidishes:recipes/chocolate_milkshake_from_blending": {
-    "criteria": {
-      "has_milk_bucket": "2024-04-14 03:05:08 +0100"
     },
     "done": true
   },
@@ -15308,69 +15230,124 @@
     },
     "done": true
   },
-  "mca:grow_adult": {
+  "kawaiidishes:recipes/misc/orange_maid_dress_fox_tail_white": {
     "criteria": {
-      "baby": "2024-04-14 05:17:38 +0100"
+      "has_orange_maid_dress": "2024-04-14 02:55:58 +0100"
     },
     "done": true
   },
-  "minecraft:recipes/building_blocks/dye_brown_carpet": {
+  "kawaiidishes:recipes/misc/orange_maid_dress_bunny_tail_black": {
     "criteria": {
-      "has_needed_dye": "2024-04-14 06:42:03 +0100"
+      "has_orange_maid_dress": "2024-04-14 02:55:58 +0100"
     },
     "done": true
   },
-  "minecraft:recipes/decorations/brown_stained_glass_pane_from_glass_pane": {
+  "kawaiidishes:recipes/misc/orange_maid_dress_cat_tail_black": {
     "criteria": {
-      "has_brown_dye": "2024-04-14 06:42:03 +0100"
+      "has_orange_maid_dress": "2024-04-14 02:55:58 +0100"
     },
     "done": true
   },
-  "kawaiidishes:recipes/misc/lime_headband_fox_ears_black": {
+  "kawaiidishes:recipes/misc/orange_maid_dress_cat_tail_white": {
     "criteria": {
-      "has_lime_headband": "2024-04-14 02:54:24 +0100"
+      "has_orange_maid_dress": "2024-04-14 02:55:58 +0100"
     },
     "done": true
   },
-  "iceandfire:recipes/misc/dragon_horn": {
+  "kawaiidishes:recipes/misc/orange_maid_dress_fox_tail_black": {
     "criteria": {
-      "has_item": "2024-04-14 03:05:41 +0100"
+      "has_orange_maid_dress": "2024-04-14 02:55:58 +0100"
     },
     "done": true
   },
-  "minecraft:recipes/building_blocks/dye_brown_bed": {
+  "kawaiidishes:recipes/misc/orange_maid_dress_cat_tail_caramel": {
     "criteria": {
-      "has_needed_dye": "2024-04-14 06:42:03 +0100"
+      "has_orange_maid_dress": "2024-04-14 02:55:58 +0100"
     },
     "done": true
   },
-  "mca:friend": {
+  "mca:root": {
     "criteria": {
-      "baby": "2024-04-14 05:44:55 +0100"
+      "village_plains": "2024-04-14 03:02:09 +0100"
+    },
+    "done": true
+  },
+  "kawaiidishes:recipes/cocoa_powder_from_blending": {
+    "criteria": {
+      "has_roasted_cocoa_beans": "2024-04-14 03:05:00 +0100"
+    },
+    "done": true
+  },
+  "kawaiidishes:recipes/brigadeiro_mix_from_blending": {
+    "criteria": {
+      "has_cocoa_powder": "2024-04-14 03:05:06 +0100"
+    },
+    "done": true
+  },
+  "kawaiidishes:recipes/misc/white_chocolate_bar": {
+    "criteria": {
+      "has_cocoa_powder": "2024-04-14 03:05:06 +0100"
+    },
+    "done": true
+  },
+  "kawaiidishes:recipes/misc/milk_chocolate_bar": {
+    "criteria": {
+      "has_cocoa_powder": "2024-04-14 03:05:06 +0100"
+    },
+    "done": true
+  },
+  "kawaiidishes:recipes/misc/dark_chocolate_bar": {
+    "criteria": {
+      "has_cocoa_powder": "2024-04-14 03:05:06 +0100"
+    },
+    "done": true
+  },
+  "kawaiidishes:recipes/chocolate_ice_cream_from_coffee_machining": {
+    "criteria": {
+      "has_cocoa_powder": "2024-04-14 03:05:06 +0100"
+    },
+    "done": true
+  },
+  "kawaiidishes:recipes/misc/brigadeiro_mix": {
+    "criteria": {
+      "has_the_recipe": "2024-04-14 03:05:06 +0100",
+      "has_cocoa_powder": "2024-04-14 03:05:06 +0100"
+    },
+    "done": true
+  },
+  "kawaiidishes:recipes/misc/chocolate_cookie": {
+    "criteria": {
+      "has_cocoa_powder": "2024-04-14 03:05:06 +0100"
+    },
+    "done": true
+  },
+  "kawaiidishes:recipes/glow_berry_milkshake_from_blending": {
+    "criteria": {
+      "has_milk_bucket": "2024-04-14 03:05:08 +0100"
+    },
+    "done": true
+  },
+  "kawaiidishes:recipes/cream_milkshake_from_blending": {
+    "criteria": {
+      "has_milk_bucket": "2024-04-14 03:05:08 +0100"
+    },
+    "done": true
+  },
+  "kawaiidishes:recipes/sweet_berry_milkshake_from_blending": {
+    "criteria": {
+      "has_milk_bucket": "2024-04-14 03:05:08 +0100"
+    },
+    "done": true
+  },
+  "kawaiidishes:recipes/chocolate_milkshake_from_blending": {
+    "criteria": {
+      "has_milk_bucket": "2024-04-14 03:05:08 +0100"
     },
     "done": true
   },
   "kawaiidishes:recipes/cream_cheese_from_blending": {
     "criteria": {
       "has_milk_bucket": "2024-04-14 03:05:08 +0100"
-    },
-    "done": true
-  },
-  "mca:chores": {
-    "criteria": {
-      "baby": "2024-04-14 06:01:10 +0100"
-    },
-    "done": true
-  },
-  "minecraft:recipes/food/cookie": {
-    "criteria": {
-      "has_cocoa": "2024-04-14 06:41:59 +0100"
-    },
-    "done": true
-  },
-  "kawaiidishes:recipes/misc/orange_maid_dress_fox_tail_white": {
-    "criteria": {
-      "has_orange_maid_dress": "2024-04-14 02:55:58 +0100"
     },
     "done": true
   },
@@ -15386,123 +15363,15 @@
     },
     "done": true
   },
-  "farmersdelight:recipes/cooking/dumplings": {
-    "criteria": {
-      "has_any_ingredient": "2024-04-14 03:06:11 +0100"
-    },
-    "done": true
-  },
-  "miners_delight:recipes/decorations/sticky_basket": {
-    "criteria": {
-      "has_cobweb": "2024-04-14 03:05:41 +0100"
-    },
-    "done": true
-  },
-  "farmersdelight:main/craft_knife": {
-    "criteria": {
-      "iron_knife": "2024-04-14 03:06:08 +0100"
-    },
-    "done": true
-  },
-  "farmersdelight:recipes/misc/iron_nugget_from_blasting_knife": {
-    "criteria": {
-      "has_iron_knife": "2024-04-14 03:06:08 +0100"
-    },
-    "done": true
-  },
-  "iceandfire:recipes/tools/dragonbone_shovel": {
-    "criteria": {
-      "has_item": "2024-04-14 03:05:41 +0100"
-    },
-    "done": true
-  },
-  "farmersdelight:recipes/misc/iron_nugget_from_smelting_knife": {
-    "criteria": {
-      "has_iron_knife": "2024-04-14 03:06:08 +0100"
-    },
-    "done": true
-  },
-  "kawaiidishes:recipes/misc/lime_headband_horns_light_gray": {
-    "criteria": {
-      "has_lime_headband": "2024-04-14 02:54:24 +0100"
-    },
-    "done": true
-  },
   "kawaiidishes:recipes/cream_ice_cream_from_coffee_machining": {
     "criteria": {
       "has_milk_bucket": "2024-04-14 03:05:08 +0100"
     },
     "done": true
   },
-  "kawaiidishes:recipes/misc/lime_headband_horns_black": {
-    "criteria": {
-      "has_lime_headband": "2024-04-14 02:54:24 +0100"
-    },
-    "done": true
-  },
-  "kawaiidishes:recipes/misc/white_chocolate_bar": {
-    "criteria": {
-      "has_cocoa_powder": "2024-04-14 03:05:06 +0100"
-    },
-    "done": true
-  },
-  "kawaiidishes:recipes/misc/lime_headband_cat_ears_white": {
-    "criteria": {
-      "has_lime_headband": "2024-04-14 02:54:24 +0100"
-    },
-    "done": true
-  },
-  "kawaiidishes:recipes/cocoa_powder_from_blending": {
-    "criteria": {
-      "has_roasted_cocoa_beans": "2024-04-14 03:05:00 +0100"
-    },
-    "done": true
-  },
-  "supplementaries:recipes/candle_holders/candle_holder_brown_dye": {
-    "criteria": {
-      "forge:dyes/brown": "2024-04-14 06:42:03 +0100"
-    },
-    "done": true
-  },
-  "bakery:recipes/butter": {
-    "criteria": {
-      "has_water_bucket": "2024-04-14 04:54:06 +0100"
-    },
-    "done": true
-  },
-  "kawaiidishes:recipes/misc/lime_headband_bunny_ears_black": {
-    "criteria": {
-      "has_lime_headband": "2024-04-14 02:54:24 +0100"
-    },
-    "done": true
-  },
-  "regions_unexplored:recipes/misc/dead_pine_sapling_from_dead_pine_shrub": {
-    "criteria": {
-      "has_dead_pine_shrub": "2024-04-14 07:14:41 +0100"
-    },
-    "done": true
-  },
   "farmersdelight:recipes/cooking/hot_cocoa": {
     "criteria": {
       "has_any_ingredient": "2024-04-14 03:05:08 +0100"
-    },
-    "done": true
-  },
-  "iceandfire:iceandfire/bestiary": {
-    "criteria": {
-      "bestiary": "2024-04-14 03:05:31 +0100"
-    },
-    "done": true
-  },
-  "botania:recipes/decorations/blue_shiny_flower": {
-    "criteria": {
-      "has_item": "2024-04-14 05:17:05 +0100"
-    },
-    "done": true
-  },
-  "kawaiidishes:recipes/misc/lime_headband_horns_red": {
-    "criteria": {
-      "has_lime_headband": "2024-04-14 02:54:24 +0100"
     },
     "done": true
   },
@@ -15519,135 +15388,9 @@
     },
     "done": true
   },
-  "minecraft:recipes/food/dried_cocoa_beans_from_smelting": {
-    "criteria": {
-      "has_cocoa_beans": "2024-04-14 06:41:59 +0100"
-    },
-    "done": true
-  },
-  "kawaiidishes:recipes/misc/orange_maid_dress_bunny_tail_black": {
-    "criteria": {
-      "has_orange_maid_dress": "2024-04-14 02:55:58 +0100"
-    },
-    "done": true
-  },
-  "farmersdelight:recipes/cooking/ratatouille": {
-    "criteria": {
-      "has_any_ingredient": "2024-04-14 03:06:11 +0100"
-    },
-    "done": true
-  },
-  "kawaiidishes:recipes/misc/orange_maid_dress_cat_tail_black": {
-    "criteria": {
-      "has_orange_maid_dress": "2024-04-14 02:55:58 +0100"
-    },
-    "done": true
-  },
-  "kawaiidishes:recipes/misc/lime_headband_fox_ears_red": {
-    "criteria": {
-      "has_lime_headband": "2024-04-14 02:54:24 +0100"
-    },
-    "done": true
-  },
-  "kawaiidishes:recipes/misc/lime_headband_horns_purple": {
-    "criteria": {
-      "has_lime_headband": "2024-04-14 02:54:24 +0100"
-    },
-    "done": true
-  },
-  "kawaiidishes:recipes/misc/orange_maid_dress_cat_tail_white": {
-    "criteria": {
-      "has_orange_maid_dress": "2024-04-14 02:55:58 +0100"
-    },
-    "done": true
-  },
-  "kawaiidishes:recipes/misc/orange_maid_dress_fox_tail_black": {
-    "criteria": {
-      "has_orange_maid_dress": "2024-04-14 02:55:58 +0100"
-    },
-    "done": true
-  },
-  "kawaiidishes:recipes/misc/milk_chocolate_bar": {
-    "criteria": {
-      "has_cocoa_powder": "2024-04-14 03:05:06 +0100"
-    },
-    "done": true
-  },
-  "minecraft:recipes/misc/brown_dye": {
-    "criteria": {
-      "has_cocoa_beans": "2024-04-14 06:41:59 +0100"
-    },
-    "done": true
-  },
-  "farmersdelight:recipes/food/roast_chicken_block": {
-    "criteria": {
-      "has_cooked_chicken": "2024-04-14 08:03:35 +0100"
-    },
-    "done": true
-  },
-  "kawaiidishes:recipes/misc/lime_headband_cat_ears_black": {
-    "criteria": {
-      "has_lime_headband": "2024-04-14 02:54:24 +0100"
-    },
-    "done": true
-  },
-  "iceandfire:recipes/misc/dragon_flute": {
-    "criteria": {
-      "has_item": "2024-04-14 03:05:41 +0100"
-    },
-    "done": true
-  },
-  "minecraft:recipes/building_blocks/dye_brown_wool": {
-    "criteria": {
-      "has_needed_dye": "2024-04-14 06:42:03 +0100"
-    },
-    "done": true
-  },
-  "iceandfire:recipes/misc/nest": {
-    "criteria": {
-      "has_item": "2024-04-14 03:05:41 +0100"
-    },
-    "done": true
-  },
   "kawaiidishes:recipes/coffee_milkshake_from_blending": {
     "criteria": {
       "has_milk_bucket": "2024-04-14 03:05:08 +0100"
-    },
-    "done": true
-  },
-  "iceandfire:recipes/combat/dragonbone_bow": {
-    "criteria": {
-      "has_item": "2024-04-14 03:05:41 +0100"
-    },
-    "done": true
-  },
-  "bakery:recipes/yeast": {
-    "criteria": {
-      "has_the_recipe": "2024-04-14 04:54:06 +0100"
-    },
-    "done": true
-  },
-  "kawaiidishes:recipes/misc/dark_chocolate_bar": {
-    "criteria": {
-      "has_cocoa_powder": "2024-04-14 03:05:06 +0100"
-    },
-    "done": true
-  },
-  "minecraft:recipes/brewing/cauldron": {
-    "criteria": {
-      "has_water_bucket": "2024-04-14 04:54:06 +0100"
-    },
-    "done": true
-  },
-  "iceandfire:recipes/tools/dragonbone_hoe": {
-    "criteria": {
-      "has_item": "2024-04-14 03:05:41 +0100"
-    },
-    "done": true
-  },
-  "kawaiidishes:recipes/chocolate_ice_cream_from_coffee_machining": {
-    "criteria": {
-      "has_cocoa_powder": "2024-04-14 03:05:06 +0100"
     },
     "done": true
   },
@@ -15657,28 +15400,69 @@
     },
     "done": true
   },
-  "kawaiidishes:recipes/misc/lime_headband_horns_white": {
+  "iceandfire:iceandfire/bestiary": {
     "criteria": {
-      "has_lime_headband": "2024-04-14 02:54:24 +0100"
+      "bestiary": "2024-04-14 03:05:31 +0100"
     },
     "done": true
   },
-  "botania:recipes/misc/petal_blue": {
+  "iceandfire:recipes/misc/bestiary": {
     "criteria": {
-      "has_item": "2024-04-14 05:17:05 +0100"
+      "has_item": "2024-04-14 03:05:37 +0100"
     },
     "done": true
   },
-  "kawaiidishes:recipes/misc/brigadeiro_mix": {
+  "iceandfire:recipes/misc/dragon_bone_wall": {
     "criteria": {
-      "has_the_recipe": "2024-04-14 03:05:06 +0100",
-      "has_cocoa_powder": "2024-04-14 03:05:06 +0100"
+      "has_item": "2024-04-14 03:05:41 +0100"
     },
     "done": true
   },
-  "regions_unexplored:recipes/misc/blue_dye_from_blue_lupine": {
+  "iceandfire:recipes/building_blocks/dragon_bone_block": {
     "criteria": {
-      "has_blue_lupine": "2024-04-14 07:39:54 +0100"
+      "has_dragonbone": "2024-04-14 03:05:41 +0100"
+    },
+    "done": true
+  },
+  "iceandfire:recipes/misc/dragon_horn": {
+    "criteria": {
+      "has_item": "2024-04-14 03:05:41 +0100"
+    },
+    "done": true
+  },
+  "miners_delight:recipes/decorations/sticky_basket": {
+    "criteria": {
+      "has_cobweb": "2024-04-14 03:05:41 +0100"
+    },
+    "done": true
+  },
+  "iceandfire:recipes/tools/dragonbone_shovel": {
+    "criteria": {
+      "has_item": "2024-04-14 03:05:41 +0100"
+    },
+    "done": true
+  },
+  "iceandfire:recipes/misc/dragon_flute": {
+    "criteria": {
+      "has_item": "2024-04-14 03:05:41 +0100"
+    },
+    "done": true
+  },
+  "iceandfire:recipes/misc/nest": {
+    "criteria": {
+      "has_item": "2024-04-14 03:05:41 +0100"
+    },
+    "done": true
+  },
+  "iceandfire:recipes/combat/dragonbone_bow": {
+    "criteria": {
+      "has_item": "2024-04-14 03:05:41 +0100"
+    },
+    "done": true
+  },
+  "iceandfire:recipes/tools/dragonbone_hoe": {
+    "criteria": {
+      "has_item": "2024-04-14 03:05:41 +0100"
     },
     "done": true
   },
@@ -15688,27 +15472,9 @@
     },
     "done": true
   },
-  "minecraft:recipes/decorations/brown_candle": {
-    "criteria": {
-      "has_brown_dye": "2024-04-14 06:42:03 +0100"
-    },
-    "done": true
-  },
   "iceandfire:recipes/tools/dragonbone_pickaxe": {
     "criteria": {
       "has_item": "2024-04-14 03:05:41 +0100"
-    },
-    "done": true
-  },
-  "kawaiidishes:recipes/misc/chocolate_cookie": {
-    "criteria": {
-      "has_cocoa_powder": "2024-04-14 03:05:06 +0100"
-    },
-    "done": true
-  },
-  "kawaiidishes:recipes/misc/orange_maid_dress_cat_tail_caramel": {
-    "criteria": {
-      "has_orange_maid_dress": "2024-04-14 02:55:58 +0100"
     },
     "done": true
   },
@@ -15718,9 +15484,183 @@
     },
     "done": true
   },
+  "farmersdelight:main/craft_knife": {
+    "criteria": {
+      "iron_knife": "2024-04-14 03:06:08 +0100"
+    },
+    "done": true
+  },
+  "farmersdelight:recipes/misc/iron_nugget_from_blasting_knife": {
+    "criteria": {
+      "has_iron_knife": "2024-04-14 03:06:08 +0100"
+    },
+    "done": true
+  },
+  "farmersdelight:recipes/misc/iron_nugget_from_smelting_knife": {
+    "criteria": {
+      "has_iron_knife": "2024-04-14 03:06:08 +0100"
+    },
+    "done": true
+  },
+  "farmersdelight:recipes/food/barbecue_stick": {
+    "criteria": {
+      "has_onion": "2024-04-14 03:06:11 +0100"
+    },
+    "done": true
+  },
+  "farmersdelight:recipes/cooking/dumplings": {
+    "criteria": {
+      "has_any_ingredient": "2024-04-14 03:06:11 +0100"
+    },
+    "done": true
+  },
+  "farmersdelight:recipes/cooking/ratatouille": {
+    "criteria": {
+      "has_any_ingredient": "2024-04-14 03:06:11 +0100"
+    },
+    "done": true
+  },
+  "farmersdelight:recipes/building_blocks/onion_crate": {
+    "criteria": {
+      "has_onion": "2024-04-14 03:06:11 +0100"
+    },
+    "done": true
+  },
+  "bakery:recipes/butter": {
+    "criteria": {
+      "has_water_bucket": "2024-04-14 04:54:06 +0100"
+    },
+    "done": true
+  },
+  "bakery:recipes/yeast": {
+    "criteria": {
+      "has_the_recipe": "2024-04-14 04:54:06 +0100"
+    },
+    "done": true
+  },
+  "minecraft:recipes/brewing/cauldron": {
+    "criteria": {
+      "has_water_bucket": "2024-04-14 04:54:06 +0100"
+    },
+    "done": true
+  },
   "minecraft:husbandry/plant_seed": {
     "criteria": {
       "wheat": "2024-04-14 04:55:48 +0100"
+    },
+    "done": true
+  },
+  "botania:recipes/decorations/blue_shiny_flower": {
+    "criteria": {
+      "has_item": "2024-04-14 05:17:05 +0100"
+    },
+    "done": true
+  },
+  "botania:recipes/misc/petal_blue": {
+    "criteria": {
+      "has_item": "2024-04-14 05:17:05 +0100"
+    },
+    "done": true
+  },
+  "mca:grow_adult": {
+    "criteria": {
+      "baby": "2024-04-14 05:17:38 +0100"
+    },
+    "done": true
+  },
+  "mca:friend": {
+    "criteria": {
+      "baby": "2024-04-14 05:44:55 +0100"
+    },
+    "done": true
+  },
+  "mca:chores": {
+    "criteria": {
+      "baby": "2024-04-14 06:01:10 +0100"
+    },
+    "done": true
+  },
+  "minecraft:recipes/food/dried_cocoa_beans_from_smoking": {
+    "criteria": {
+      "has_cocoa_beans": "2024-04-14 06:41:59 +0100"
+    },
+    "done": true
+  },
+  "minecraft:recipes/food/cookie": {
+    "criteria": {
+      "has_cocoa": "2024-04-14 06:41:59 +0100"
+    },
+    "done": true
+  },
+  "minecraft:recipes/food/dried_cocoa_beans_from_smelting": {
+    "criteria": {
+      "has_cocoa_beans": "2024-04-14 06:41:59 +0100"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/brown_dye": {
+    "criteria": {
+      "has_cocoa_beans": "2024-04-14 06:41:59 +0100"
+    },
+    "done": true
+  },
+  "createdeco:recipes/decorations/brown_placard_from_dyeing": {
+    "criteria": {
+      "has_dye": "2024-04-14 06:42:03 +0100"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/dye_brown_carpet": {
+    "criteria": {
+      "has_needed_dye": "2024-04-14 06:42:03 +0100"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/brown_stained_glass_pane_from_glass_pane": {
+    "criteria": {
+      "has_brown_dye": "2024-04-14 06:42:03 +0100"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/dye_brown_bed": {
+    "criteria": {
+      "has_needed_dye": "2024-04-14 06:42:03 +0100"
+    },
+    "done": true
+  },
+  "supplementaries:recipes/candle_holders/candle_holder_brown_dye": {
+    "criteria": {
+      "forge:dyes/brown": "2024-04-14 06:42:03 +0100"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/dye_brown_wool": {
+    "criteria": {
+      "has_needed_dye": "2024-04-14 06:42:03 +0100"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/brown_candle": {
+    "criteria": {
+      "has_brown_dye": "2024-04-14 06:42:03 +0100"
+    },
+    "done": true
+  },
+  "regions_unexplored:recipes/misc/dead_pine_sapling_from_dead_pine_shrub": {
+    "criteria": {
+      "has_dead_pine_shrub": "2024-04-14 07:14:41 +0100"
+    },
+    "done": true
+  },
+  "regions_unexplored:recipes/misc/blue_dye_from_blue_lupine": {
+    "criteria": {
+      "has_blue_lupine": "2024-04-14 07:39:54 +0100"
+    },
+    "done": true
+  },
+  "farmersdelight:recipes/food/roast_chicken_block": {
+    "criteria": {
+      "has_cooked_chicken": "2024-04-14 08:03:35 +0100"
     },
     "done": true
   },
@@ -15730,9 +15670,3447 @@
     },
     "done": true
   },
-  "farmersdelight:recipes/building_blocks/onion_crate": {
+  "incendium:technical/sentrys_wrath": {
     "criteria": {
-      "has_onion": "2024-04-14 03:06:11 +0100"
+      "log_spam_fixer": "2024-04-15 02:03:31 +0100"
+    },
+    "done": false
+  },
+  "incendium:technical/on_block": {
+    "criteria": {
+      "log_spam_fixer": "2024-04-15 02:03:31 +0100"
+    },
+    "done": false
+  },
+  "incendium:technical/feed_ghastling": {
+    "criteria": {
+      "log_spam_fixer": "2024-04-15 02:03:31 +0100"
+    },
+    "done": false
+  },
+  "incendium:technical/multiplex_crossbow": {
+    "criteria": {
+      "log_spam_fixer": "2024-04-15 02:03:31 +0100"
+    },
+    "done": false
+  },
+  "incendium:technical/on_player_hurt": {
+    "criteria": {
+      "log_spam_fixer": "2024-04-15 02:03:31 +0100"
+    },
+    "done": false
+  },
+  "incendium:technical/on_kill": {
+    "criteria": {
+      "log_spam_fixer": "2024-04-15 02:03:31 +0100"
+    },
+    "done": false
+  },
+  "incendium:technical/on_inventory_change": {
+    "criteria": {
+      "log_spam_fixer": "2024-04-15 02:03:31 +0100"
+    },
+    "done": false
+  },
+  "incendium:technical/holy_wrath": {
+    "criteria": {
+      "log_spam_fixer": "2024-04-15 02:03:31 +0100"
+    },
+    "done": false
+  },
+  "incendium:technical/inventory/firestorm": {
+    "criteria": {
+      "log_spam_fixer": "2024-04-15 02:03:31 +0100"
+    },
+    "done": false
+  },
+  "incendium:technical/give_ghastling": {
+    "criteria": {
+      "log_spam_fixer": "2024-04-15 02:03:31 +0100"
+    },
+    "done": false
+  },
+  "incendium:technical/inventory/sentrys_wrath": {
+    "criteria": {
+      "log_spam_fixer": "2024-04-15 02:03:31 +0100"
+    },
+    "done": false
+  },
+  "incendium:technical/firestorm": {
+    "criteria": {
+      "log_spam_fixer": "2024-04-15 02:03:31 +0100"
+    },
+    "done": false
+  },
+  "swem:recipes/misc/western_girth_strap/western_girth_strap_brown": {
+    "criteria": {
+      "has_western_girth_strap": "2024-04-15 01:02:49 +0100"
+    },
+    "done": true
+  },
+  "swem:recipes/misc/western_girth_strap/western_girth_strap_orange_from_girth_strap": {
+    "criteria": {
+      "has_western_girth_strap": "2024-04-15 01:02:49 +0100"
+    },
+    "done": true
+  },
+  "swem:recipes/misc/western_breast_collar/western_breast_collar_gray_from_breast_collar": {
+    "criteria": {
+      "has_western_breast_collar": "2024-04-15 01:02:49 +0100"
+    },
+    "done": true
+  },
+  "swem:recipes/misc/whitewash_stall_care": {
+    "criteria": {
+      "has_bars": "2024-04-15 00:49:08 +0100"
+    },
+    "done": true
+  },
+  "swem:recipes/misc/grain_feeder_brown": {
+    "criteria": {
+      "has_dried_kelp": "2024-04-15 00:44:39 +0100"
+    },
+    "done": true
+  },
+  "swem:recipes/misc/english_blanket/english_blanket_red": {
+    "criteria": {
+      "has_english_blanket": "2024-04-15 01:28:29 +0100"
+    },
+    "done": true
+  },
+  "swem:recipes/misc/pasture_blanket/pasture_blanket_armored_black": {
+    "criteria": {
+      "has_pasture_blanket_armored": "2024-04-15 01:28:29 +0100"
+    },
+    "done": true
+  },
+  "swem:recipes/misc/western_breast_collar/western_breast_collar_magenta": {
+    "criteria": {
+      "has_refined_leather": "2024-04-15 01:02:49 +0100"
+    },
+    "done": true
+  },
+  "swem:recipes/misc/halter/dye_halter_light_gray": {
+    "criteria": {
+      "has_halters": "2024-04-15 01:49:17 +0100"
+    },
+    "done": true
+  },
+  "constructionwand:recipes/tools/stone_wand": {
+    "criteria": {
+      "has_item": "2024-04-14 23:08:28 +0100"
+    },
+    "done": true
+  },
+  "swem:recipes/misc/pasture_blanket/pasture_blanket_cyan": {
+    "criteria": {
+      "has_pasture_blanket": "2024-04-15 01:28:29 +0100"
+    },
+    "done": true
+  },
+  "swem:recipes/misc/cyan_cone": {
+    "criteria": {
+      "has_dried_kelp": "2024-04-15 00:44:39 +0100"
+    },
+    "done": true
+  },
+  "swem:recipes/misc/western_blanket/western_blanket_cyan": {
+    "criteria": {
+      "has_western_blanket": "2024-04-15 01:02:49 +0100"
+    },
+    "done": true
+  },
+  "swem:recipes/misc/western_leg_wraps/western_leg_wraps_purple_from_leg_wraps": {
+    "criteria": {
+      "has_western_leg_wraps": "2024-04-15 01:28:29 +0100"
+    },
+    "done": true
+  },
+  "swem:recipes/misc/english_leg_wraps/english_leg_wraps_gray_from_leg_wraps": {
+    "criteria": {
+      "has_english_leg_wraps": "2024-04-15 01:28:29 +0100"
+    },
+    "done": true
+  },
+  "swem:recipes/misc/western_breast_collar/western_breast_collar_brown_from_breast_collar": {
+    "criteria": {
+      "has_western_breast_collar": "2024-04-15 01:02:49 +0100"
+    },
+    "done": true
+  },
+  "swem:recipes/misc/pasture_blanket/pasture_blanket_purple_armored_from_blanket": {
+    "criteria": {
+      "has_pasture_blanket_armored": "2024-04-15 01:28:29 +0100"
+    },
+    "done": true
+  },
+  "swem:recipes/misc/western_blanket/western_blanket_brown": {
+    "criteria": {
+      "has_western_blanket": "2024-04-15 01:02:49 +0100"
+    },
+    "done": true
+  },
+  "storagedrawers:recipes/storagedrawers/illumination_upgrade": {
+    "criteria": {
+      "has_template": "2024-04-14 22:57:08 +0100"
+    },
+    "done": true
+  },
+  "supplementaries:recipes/candle_holders/candle_holder_white_dye": {
+    "criteria": {
+      "forge:dyes/white": "2024-04-15 00:51:14 +0100"
+    },
+    "done": true
+  },
+  "swem:recipes/misc/western_leg_wraps/western_leg_wraps_red_from_leg_wraps": {
+    "criteria": {
+      "has_western_leg_wraps": "2024-04-15 01:28:29 +0100"
+    },
+    "done": true
+  },
+  "swem:recipes/misc/western_breast_collar/western_breast_collar_purple": {
+    "criteria": {
+      "has_refined_leather": "2024-04-15 01:02:49 +0100"
+    },
+    "done": true
+  },
+  "supplementaries:recipes/candle_holders/candle_holder_orange_dye": {
+    "criteria": {
+      "forge:dyes/orange": "2024-04-15 01:34:37 +0100"
+    },
+    "done": true
+  },
+  "swem:recipes/misc/saddle_bag/saddle_bag_gray": {
+    "criteria": {
+      "has_refined_leather": "2024-04-15 01:02:49 +0100"
+    },
+    "done": true
+  },
+  "swem:recipes/misc/western_leg_wraps/western_leg_wraps_brown": {
+    "criteria": {
+      "has_western_leg_wraps": "2024-04-15 01:28:29 +0100"
+    },
+    "done": true
+  },
+  "swem:recipes/misc/western_saddle/western_saddle_magenta": {
+    "criteria": {
+      "has_western_saddle": "2024-04-15 01:02:48 +0100"
+    },
+    "done": true
+  },
+  "swem:recipes/misc/western_bridle/western_bridle_purple": {
+    "criteria": {
+      "has_western_bridle": "2024-04-15 01:02:48 +0100"
+    },
+    "done": true
+  },
+  "swem:recipes/misc/english_blanket/english_blanket_black": {
+    "criteria": {
+      "has_english_blanket": "2024-04-15 01:28:29 +0100"
+    },
+    "done": true
+  },
+  "fairylights:recipes/fairylights/oil_lantern": {
+    "criteria": {
+      "has_torch": "2024-04-14 22:57:08 +0100"
+    },
+    "done": true
+  },
+  "swem:recipes/misc/english_blanket/english_blanket_pink": {
+    "criteria": {
+      "has_english_blanket": "2024-04-15 01:28:29 +0100"
+    },
+    "done": true
+  },
+  "handcrafted:recipes/misc/white_plate": {
+    "criteria": {
+      "has_white_plate": "2024-04-15 00:51:14 +0100"
+    },
+    "done": true
+  },
+  "bakery:recipes/crafting_bowl": {
+    "criteria": {
+      "has_dried_kelp": "2024-04-15 00:44:39 +0100"
+    },
+    "done": true
+  },
+  "swem:recipes/misc/western_girth_strap/western_girth_strap_pink": {
+    "criteria": {
+      "has_western_girth_strap": "2024-04-15 01:02:48 +0100"
+    },
+    "done": true
+  },
+  "swem:recipes/misc/western_saddle/western_saddle_blue": {
+    "criteria": {
+      "has_western_saddle": "2024-04-15 01:02:49 +0100"
+    },
+    "done": true
+  },
+  "swem:recipes/misc/english_blanket/english_blanket_gray": {
+    "criteria": {
+      "has_english_blanket": "2024-04-15 01:28:29 +0100"
+    },
+    "done": true
+  },
+  "swem:recipes/misc/western_saddle/western_saddle_lime_from_saddle": {
+    "criteria": {
+      "has_western_saddle": "2024-04-15 01:02:49 +0100"
+    },
+    "done": true
+  },
+  "swem:recipes/misc/western_breast_collar/western_breast_collar_purple_from_breast_collar": {
+    "criteria": {
+      "has_western_breast_collar": "2024-04-15 01:02:49 +0100"
+    },
+    "done": true
+  },
+  "swem:recipes/misc/timothy_bale_slab": {
+    "criteria": {
+      "has_bale": "2024-04-15 01:36:03 +0100"
+    },
+    "done": true
+  },
+  "swem:recipes/misc/western_leg_wraps/western_leg_wraps_light_blue_from_leg_wraps": {
+    "criteria": {
+      "has_western_leg_wraps": "2024-04-15 01:28:29 +0100"
+    },
+    "done": true
+  },
+  "minecraft:story/lava_bucket": {
+    "criteria": {
+      "lava_bucket": "2024-04-15 00:15:18 +0100"
+    },
+    "done": true
+  },
+  "astikorcarts:recipes/plow": {
+    "criteria": {
+      "has_wheel": "2024-04-14 22:57:07 +0100"
+    },
+    "done": true
+  },
+  "swem:recipes/misc/western_breast_collar/western_breast_collar_green_from_breast_collar": {
+    "criteria": {
+      "has_western_breast_collar": "2024-04-15 01:02:49 +0100"
+    },
+    "done": true
+  },
+  "swem:recipes/misc/western_breast_collar/western_breast_collar_cyan": {
+    "criteria": {
+      "has_refined_leather": "2024-04-15 01:02:49 +0100"
+    },
+    "done": true
+  },
+  "swem:recipes/misc/western_saddle/western_saddle_lime": {
+    "criteria": {
+      "has_western_saddle": "2024-04-15 01:02:49 +0100"
+    },
+    "done": true
+  },
+  "swem:recipes/misc/pasture_blanket/pasture_blanket_black": {
+    "criteria": {
+      "has_pasture_blanket": "2024-04-15 01:28:29 +0100"
+    },
+    "done": true
+  },
+  "astikorcarts:recipes/wheel": {
+    "criteria": {
+      "has_planks": "2024-04-14 23:21:05 +0100"
+    },
+    "done": true
+  },
+  "fairylights:recipes/fairylights/icicle_lights": {
+    "criteria": {
+      "has_iron": "2024-04-14 23:20:54 +0100"
+    },
+    "done": true
+  },
+  "swem:recipes/misc/pasture_blanket/pasture_blanket_armored_yellow": {
+    "criteria": {
+      "has_pasture_blanket_armored": "2024-04-15 01:28:29 +0100"
+    },
+    "done": true
+  },
+  "swem:recipes/misc/western_girth_strap/western_girth_strap_white_from_girth_strap": {
+    "criteria": {
+      "has_western_girth_strap": "2024-04-15 01:02:49 +0100"
+    },
+    "done": true
+  },
+  "swem:recipes/misc/english_leg_wraps/english_leg_wraps_yellow_from_leg_wraps": {
+    "criteria": {
+      "has_english_leg_wraps": "2024-04-15 01:28:29 +0100"
+    },
+    "done": true
+  },
+  "swem:recipes/misc/slow_feeder_cyan": {
+    "criteria": {
+      "has_dried_kelp": "2024-04-15 00:44:39 +0100"
+    },
+    "done": true
+  },
+  "swem:recipes/misc/pasture_blanket/pasture_blanket_gray_armored_from_blanket": {
+    "criteria": {
+      "has_pasture_blanket_armored": "2024-04-15 01:28:29 +0100"
+    },
+    "done": true
+  },
+  "swem:recipes/misc/half_barrel/half_barrel_cyan": {
+    "criteria": {
+      "has_half_barrels": "2024-04-15 00:44:39 +0100"
+    },
+    "done": true
+  },
+  "swem:recipes/misc/english_leg_wraps/english_leg_wraps_brown_from_leg_wraps": {
+    "criteria": {
+      "has_english_leg_wraps": "2024-04-15 01:28:29 +0100"
+    },
+    "done": true
+  },
+  "swem:recipes/misc/western_leg_wraps/western_leg_wraps_brown_from_leg_wraps": {
+    "criteria": {
+      "has_western_leg_wraps": "2024-04-15 01:28:29 +0100"
+    },
+    "done": true
+  },
+  "swem:recipes/misc/western_bridle/western_bridle_brown_from_bridle": {
+    "criteria": {
+      "has_western_bridle": "2024-04-15 01:02:48 +0100"
+    },
+    "done": true
+  },
+  "swem:recipes/misc/western_bridle/western_bridle_lime_from_bridle": {
+    "criteria": {
+      "has_western_bridle": "2024-04-15 01:02:49 +0100"
+    },
+    "done": true
+  },
+  "swem:recipes/misc/pasture_blanket/pasture_blanket_light_blue": {
+    "criteria": {
+      "has_pasture_blanket": "2024-04-15 01:28:29 +0100"
+    },
+    "done": true
+  },
+  "swem:recipes/misc/western_girth_strap/western_girth_strap_purple": {
+    "criteria": {
+      "has_western_girth_strap": "2024-04-15 01:02:49 +0100"
+    },
+    "done": true
+  },
+  "swem:recipes/misc/half_barrel/half_barrel_yellow": {
+    "criteria": {
+      "has_half_barrels": "2024-04-15 00:44:39 +0100"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/iron_ingot_from_iron_block": {
+    "criteria": {
+      "has_iron_block": "2024-04-15 01:49:53 +0100"
+    },
+    "done": true
+  },
+  "swem:recipes/misc/english_blanket/english_blanket_red_from_blanket": {
+    "criteria": {
+      "has_english_blanket": "2024-04-15 01:28:29 +0100"
+    },
+    "done": true
+  },
+  "swem:recipes/misc/western_leg_wraps/western_leg_wraps_light_gray": {
+    "criteria": {
+      "has_western_leg_wraps": "2024-04-15 01:28:29 +0100"
+    },
+    "done": true
+  },
+  "swem:recipes/misc/english_leg_wraps/english_leg_wraps_black": {
+    "criteria": {
+      "has_english_leg_wraps": "2024-04-15 01:28:29 +0100"
+    },
+    "done": true
+  },
+  "swem:recipes/misc/slow_feeder_yellow": {
+    "criteria": {
+      "has_dried_kelp": "2024-04-15 00:44:39 +0100"
+    },
+    "done": true
+  },
+  "swem:recipes/misc/western_girth_strap/western_girth_strap_green_from_girth_strap": {
+    "criteria": {
+      "has_western_girth_strap": "2024-04-15 01:02:49 +0100"
+    },
+    "done": true
+  },
+  "swem:recipes/misc/pasture_blanket/pasture_blanket_armored_light_gray": {
+    "criteria": {
+      "has_pasture_blanket_armored": "2024-04-15 01:28:29 +0100"
+    },
+    "done": true
+  },
+  "swem:recipes/misc/toy_jolly_ball": {
+    "criteria": {
+      "has_kelp": "2024-04-15 00:44:39 +0100"
+    },
+    "done": true
+  },
+  "swem:recipes/misc/english_blanket/english_blanket_purple": {
+    "criteria": {
+      "has_english_blanket": "2024-04-15 01:28:29 +0100"
+    },
+    "done": true
+  },
+  "swem:recipes/misc/western_bridle/western_bridle_cyan": {
+    "criteria": {
+      "has_western_bridle": "2024-04-15 01:02:49 +0100"
+    },
+    "done": true
+  },
+  "swem:recipes/misc/western_leg_wraps/western_leg_wraps_red": {
+    "criteria": {
+      "has_western_leg_wraps": "2024-04-15 01:28:29 +0100"
+    },
+    "done": true
+  },
+  "swem:recipes/misc/western_leg_wraps/western_leg_wraps_black_from_leg_wraps": {
+    "criteria": {
+      "has_western_leg_wraps": "2024-04-15 01:28:29 +0100"
+    },
+    "done": true
+  },
+  "swem:recipes/misc/western_blanket/western_blanket_red_from_blanket": {
+    "criteria": {
+      "has_western_blanket": "2024-04-15 01:02:49 +0100"
+    },
+    "done": true
+  },
+  "fairylights:recipes/fairylights/candle_lantern": {
+    "criteria": {
+      "has_torch": "2024-04-14 22:57:08 +0100"
+    },
+    "done": true
+  },
+  "swem:recipes/misc/western_blanket/western_blanket_light_blue": {
+    "criteria": {
+      "has_western_blanket": "2024-04-15 01:02:48 +0100"
+    },
+    "done": true
+  },
+  "fairylights:recipes/fairylights/tinsel_garland": {
+    "criteria": {
+      "has_iron": "2024-04-14 23:20:54 +0100"
+    },
+    "done": true
+  },
+  "swem:recipes/misc/western_saddle/western_saddle_red": {
+    "criteria": {
+      "has_western_saddle": "2024-04-15 01:02:49 +0100"
+    },
+    "done": true
+  },
+  "swem:recipes/misc/western_saddle/western_saddle_light_gray": {
+    "criteria": {
+      "has_western_saddle": "2024-04-15 01:02:49 +0100"
+    },
+    "done": true
+  },
+  "swem:recipes/misc/western_bridle/western_bridle_red_from_bridle": {
+    "criteria": {
+      "has_western_bridle": "2024-04-15 01:02:49 +0100"
+    },
+    "done": true
+  },
+  "swem:recipes/misc/pasture_blanket/pasture_blanket_armored_brown": {
+    "criteria": {
+      "has_pasture_blanket_armored": "2024-04-15 01:28:29 +0100"
+    },
+    "done": true
+  },
+  "swem:recipes/misc/western_girth_strap/western_girth_strap_gray": {
+    "criteria": {
+      "has_western_girth_strap": "2024-04-15 01:02:49 +0100"
+    },
+    "done": true
+  },
+  "swem:recipes/misc/english_blanket/english_blanket_lime_from_blanket": {
+    "criteria": {
+      "has_english_blanket": "2024-04-15 01:28:29 +0100"
+    },
+    "done": true
+  },
+  "handcrafted:recipes/misc/white_crockery_combo": {
+    "criteria": {
+      "has_white_crockery_combo": "2024-04-15 00:51:14 +0100"
+    },
+    "done": true
+  },
+  "swem:recipes/misc/slow_feeder_light_gray": {
+    "criteria": {
+      "has_dried_kelp": "2024-04-15 00:44:39 +0100"
+    },
+    "done": true
+  },
+  "swem:recipes/misc/western_breast_collar/western_breast_collar_cyan_from_breast_collar": {
+    "criteria": {
+      "has_western_breast_collar": "2024-04-15 01:02:49 +0100"
+    },
+    "done": true
+  },
+  "swem:recipes/misc/english_leg_wraps/english_leg_wraps_light_gray": {
+    "criteria": {
+      "has_english_leg_wraps": "2024-04-15 01:28:29 +0100"
+    },
+    "done": true
+  },
+  "swem:recipes/misc/western_girth_strap/western_girth_strap_black": {
+    "criteria": {
+      "has_western_girth_strap": "2024-04-15 01:02:49 +0100"
+    },
+    "done": true
+  },
+  "swem:recipes/misc/half_barrel/half_barrel_white": {
+    "criteria": {
+      "has_half_barrels": "2024-04-15 00:44:39 +0100"
+    },
+    "done": true
+  },
+  "fairylights:recipes/fairylights/letter_bunting": {
+    "criteria": {
+      "has_iron": "2024-04-14 23:20:54 +0100"
+    },
+    "done": true
+  },
+  "swem:recipes/misc/grain_feeder_black": {
+    "criteria": {
+      "has_dried_kelp": "2024-04-15 00:44:39 +0100"
+    },
+    "done": true
+  },
+  "swem:recipes/misc/pasture_blanket/pasture_blanket_light_gray_armored_from_blanket": {
+    "criteria": {
+      "has_pasture_blanket_armored": "2024-04-15 01:28:29 +0100"
+    },
+    "done": true
+  },
+  "swem:recipes/misc/western_breast_collar/western_breast_collar_white": {
+    "criteria": {
+      "has_refined_leather": "2024-04-15 01:02:49 +0100"
+    },
+    "done": true
+  },
+  "swem:recipes/misc/jungle_stall_care": {
+    "criteria": {
+      "has_bars": "2024-04-15 00:49:08 +0100"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/trapped_chest": {
+    "criteria": {
+      "has_tripwire_hook": "2024-04-15 01:02:03 +0100"
+    },
+    "done": true
+  },
+  "swem:recipes/misc/english_blanket/english_blanket_brown": {
+    "criteria": {
+      "has_english_blanket": "2024-04-15 01:28:29 +0100"
+    },
+    "done": true
+  },
+  "storagedrawers:recipes/storagedrawers/birch_trim": {
+    "criteria": {
+      "has_planks": "2024-04-14 22:57:07 +0100"
+    },
+    "done": true
+  },
+  "handcrafted:recipes/misc/white_bowl": {
+    "criteria": {
+      "has_white_bowl": "2024-04-15 00:51:14 +0100"
+    },
+    "done": true
+  },
+  "swem:recipes/misc/halter/dye_halter_pink": {
+    "criteria": {
+      "has_halters": "2024-04-15 01:49:17 +0100"
+    },
+    "done": true
+  },
+  "swem:recipes/misc/red_cone": {
+    "criteria": {
+      "has_dried_kelp": "2024-04-15 00:44:39 +0100"
+    },
+    "done": true
+  },
+  "forbidden_arcanus:recipes/tools/obsidian_skull": {
+    "criteria": {
+      "has_obsidian": "2024-04-14 23:13:33 +0100"
+    },
+    "done": true
+  },
+  "swem:recipes/misc/pasture_blanket/pasture_blanket_green_armored_from_blanket": {
+    "criteria": {
+      "has_pasture_blanket_armored": "2024-04-15 01:28:29 +0100"
+    },
+    "done": true
+  },
+  "swem:recipes/misc/english_saddle_black": {
+    "criteria": {
+      "has_refined_leather": "2024-04-15 01:02:48 +0100"
+    },
+    "done": true
+  },
+  "bakery:recipes/dough": {
+    "criteria": {
+      "has_sugar": "2024-04-14 23:15:42 +0100"
+    },
+    "done": true
+  },
+  "swem:recipes/misc/adventure_saddle": {
+    "criteria": {
+      "has_refined_leather": "2024-04-15 01:02:49 +0100"
+    },
+    "done": true
+  },
+  "swem:recipes/misc/western_blanket/western_blanket_orange_from_blanket": {
+    "criteria": {
+      "has_western_blanket": "2024-04-15 01:02:48 +0100"
+    },
+    "done": true
+  },
+  "swem:recipes/misc/pasture_blanket/pasture_blanket_orange": {
+    "criteria": {
+      "has_pasture_blanket": "2024-04-15 01:28:29 +0100"
+    },
+    "done": true
+  },
+  "fairylights:recipes/fairylights/star_light": {
+    "criteria": {
+      "has_iron": "2024-04-14 23:20:54 +0100"
+    },
+    "done": true
+  },
+  "swem:recipes/misc/slow_feeder_black": {
+    "criteria": {
+      "has_dried_kelp": "2024-04-15 00:44:39 +0100"
+    },
+    "done": true
+  },
+  "swem:recipes/misc/western_blanket/western_blanket_purple": {
+    "criteria": {
+      "has_western_blanket": "2024-04-15 01:02:48 +0100"
+    },
+    "done": true
+  },
+  "swem:recipes/misc/pasture_blanket/pasture_blanket_armored_red": {
+    "criteria": {
+      "has_pasture_blanket_armored": "2024-04-15 01:28:29 +0100"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/dye_white_carpet": {
+    "criteria": {
+      "has_needed_dye": "2024-04-15 00:51:14 +0100"
+    },
+    "done": true
+  },
+  "handcrafted:recipes/misc/kitchen_hood_pipe": {
+    "criteria": {
+      "has_kitchen_hood_pipe": "2024-04-15 00:49:08 +0100"
+    },
+    "done": true
+  },
+  "swem:recipes/misc/refined_leather_from_treated_leather": {
+    "criteria": {
+      "has_leather": "2024-04-15 01:01:11 +0100"
+    },
+    "done": true
+  },
+  "farmersdelight:recipes/misc/gold_nugget_from_blasting_knife": {
+    "criteria": {
+      "has_golden_knife": "2024-04-14 23:16:22 +0100"
+    },
+    "done": true
+  },
+  "supplementaries:recipes/sugar_cube": {
+    "criteria": {
+      "has_sugar": "2024-04-14 23:15:42 +0100"
+    },
+    "done": true
+  },
+  "swem:recipes/misc/western_bridle/western_bridle_magenta": {
+    "criteria": {
+      "has_western_bridle": "2024-04-15 01:02:49 +0100"
+    },
+    "done": true
+  },
+  "swem:recipes/misc/saddle_bag/saddle_bag_orange": {
+    "criteria": {
+      "has_refined_leather": "2024-04-15 01:02:49 +0100"
+    },
+    "done": true
+  },
+  "storagedrawers:recipes/storagedrawers/oak_trim": {
+    "criteria": {
+      "has_planks": "2024-04-14 22:57:07 +0100"
+    },
+    "done": true
+  },
+  "createdeco:recipes/decorations/iron_hull_from_stonecutting": {
+    "criteria": {
+      "has_item": "2024-04-15 01:49:53 +0100"
+    },
+    "done": true
+  },
+  "storagedrawers:recipes/storagedrawers/emerald_storage_upgrade": {
+    "criteria": {
+      "has_template": "2024-04-14 22:57:07 +0100"
+    },
+    "done": true
+  },
+  "storagedrawers:recipes/storagedrawers/obsidian_storage_upgrade": {
+    "criteria": {
+      "has_template": "2024-04-14 22:57:07 +0100"
+    },
+    "done": true
+  },
+  "swem:recipes/misc/pasture_blanket/pasture_blanket_armored_lime": {
+    "criteria": {
+      "has_pasture_blanket_armored": "2024-04-15 01:28:29 +0100"
+    },
+    "done": true
+  },
+  "swem:recipes/misc/grain_feeder_red": {
+    "criteria": {
+      "has_dried_kelp": "2024-04-15 00:44:39 +0100"
+    },
+    "done": true
+  },
+  "swem:recipes/misc/western_leg_wraps/western_leg_wraps_lime_from_leg_wraps": {
+    "criteria": {
+      "has_western_leg_wraps": "2024-04-15 01:28:29 +0100"
+    },
+    "done": true
+  },
+  "swem:recipes/misc/grain_feeder_light_gray": {
+    "criteria": {
+      "has_dried_kelp": "2024-04-15 00:44:39 +0100"
+    },
+    "done": true
+  },
+  "swem:recipes/misc/english_leg_wraps/english_leg_wraps_blue": {
+    "criteria": {
+      "has_english_leg_wraps": "2024-04-15 01:28:29 +0100"
+    },
+    "done": true
+  },
+  "swem:recipes/misc/english_girth_strap_brown": {
+    "criteria": {
+      "has_refined_leather": "2024-04-15 01:02:49 +0100"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/pink_dye_from_red_white_dye": {
+    "criteria": {
+      "has_white_dye": "2024-04-15 00:51:14 +0100"
+    },
+    "done": true
+  },
+  "swem:recipes/misc/half_barrel/half_barrel_green": {
+    "criteria": {
+      "has_half_barrels": "2024-04-15 00:44:39 +0100"
+    },
+    "done": true
+  },
+  "swem:recipes/misc/western_leg_wraps/western_leg_wraps_yellow": {
+    "criteria": {
+      "has_western_leg_wraps": "2024-04-15 01:28:29 +0100"
+    },
+    "done": true
+  },
+  "swem:recipes/misc/pasture_blanket/pasture_blanket_armored_blue": {
+    "criteria": {
+      "has_pasture_blanket_armored": "2024-04-15 01:28:29 +0100"
+    },
+    "done": true
+  },
+  "swem:recipes/misc/english_leg_wraps/english_leg_wraps_yellow": {
+    "criteria": {
+      "has_english_leg_wraps": "2024-04-15 01:28:29 +0100"
+    },
+    "done": true
+  },
+  "swem:recipes/misc/english_leg_wraps/english_leg_wraps_lime": {
+    "criteria": {
+      "has_english_leg_wraps": "2024-04-15 01:28:29 +0100"
+    },
+    "done": true
+  },
+  "swem:recipes/misc/grain_feeder_orange": {
+    "criteria": {
+      "has_dried_kelp": "2024-04-15 00:44:39 +0100"
+    },
+    "done": true
+  },
+  "swem:recipes/misc/half_barrel/half_barrel_magenta": {
+    "criteria": {
+      "has_half_barrels": "2024-04-15 00:44:39 +0100"
+    },
+    "done": true
+  },
+  "swem:recipes/misc/saddle_bag/saddle_bag_pink": {
+    "criteria": {
+      "has_refined_leather": "2024-04-15 01:02:49 +0100"
+    },
+    "done": true
+  },
+  "minecraft:recipes/food/cooked_cod": {
+    "criteria": {
+      "has_cod": "2024-04-14 23:35:39 +0100"
+    },
+    "done": true
+  },
+  "swem:recipes/misc/halter/dye_halter_gray": {
+    "criteria": {
+      "has_halters": "2024-04-15 01:49:17 +0100"
+    },
+    "done": true
+  },
+  "swem:recipes/misc/pasture_blanket/pasture_blanket_pink_armored_from_blanket": {
+    "criteria": {
+      "has_pasture_blanket_armored": "2024-04-15 01:28:29 +0100"
+    },
+    "done": true
+  },
+  "swem:recipes/misc/western_saddle/western_saddle_light_gray_from_saddle": {
+    "criteria": {
+      "has_western_saddle": "2024-04-15 01:02:49 +0100"
+    },
+    "done": true
+  },
+  "swem:recipes/misc/jungle_stall_horse": {
+    "criteria": {
+      "has_bars": "2024-04-15 00:49:08 +0100"
+    },
+    "done": true
+  },
+  "swem:recipes/misc/halter/dye_halter_brown": {
+    "criteria": {
+      "has_halters": "2024-04-15 01:49:17 +0100"
+    },
+    "done": true
+  },
+  "swem:recipes/misc/slow_feeder_red": {
+    "criteria": {
+      "has_dried_kelp": "2024-04-15 00:44:39 +0100"
+    },
+    "done": true
+  },
+  "swem:recipes/misc/english_leg_wraps/english_leg_wraps_white_from_leg_wraps": {
+    "criteria": {
+      "has_english_leg_wraps": "2024-04-15 01:28:29 +0100"
+    },
+    "done": true
+  },
+  "swem:recipes/misc/english_leg_wraps/english_leg_wraps_orange": {
+    "criteria": {
+      "has_english_leg_wraps": "2024-04-15 01:28:29 +0100"
+    },
+    "done": true
+  },
+  "swem:recipes/misc/toy_ball_slow_feed_hay": {
+    "criteria": {
+      "has_kelp": "2024-04-15 00:44:39 +0100"
+    },
+    "done": true
+  },
+  "fairylights:recipes/fairylights/incandescent_light": {
+    "criteria": {
+      "has_torch": "2024-04-14 22:57:08 +0100"
+    },
+    "done": true
+  },
+  "swem:recipes/misc/western_leg_wraps/western_leg_wraps_purple": {
+    "criteria": {
+      "has_western_leg_wraps": "2024-04-15 01:28:29 +0100"
+    },
+    "done": true
+  },
+  "swem:recipes/misc/pasture_blanket/pasture_blanket_red": {
+    "criteria": {
+      "has_pasture_blanket": "2024-04-15 01:28:29 +0100"
+    },
+    "done": true
+  },
+  "minecraft:recipes/food/cooked_cod_from_smoking": {
+    "criteria": {
+      "has_cod": "2024-04-14 23:35:39 +0100"
+    },
+    "done": true
+  },
+  "swem:recipes/misc/magenta_cone": {
+    "criteria": {
+      "has_dried_kelp": "2024-04-15 00:44:39 +0100"
+    },
+    "done": true
+  },
+  "swem:recipes/misc/western_blanket/western_blanket_light_blue_from_blanket": {
+    "criteria": {
+      "has_western_blanket": "2024-04-15 01:02:49 +0100"
+    },
+    "done": true
+  },
+  "swem:recipes/misc/english_blanket/english_blanket_orange": {
+    "criteria": {
+      "has_english_blanket": "2024-04-15 01:28:29 +0100"
+    },
+    "done": true
+  },
+  "swem:recipes/misc/western_blanket/western_blanket_light_gray_from_blanket": {
+    "criteria": {
+      "has_western_blanket": "2024-04-15 01:02:49 +0100"
+    },
+    "done": true
+  },
+  "swem:recipes/misc/western_blanket/western_blanket_red": {
+    "criteria": {
+      "has_western_blanket": "2024-04-15 01:02:48 +0100"
+    },
+    "done": true
+  },
+  "swem:recipes/misc/english_breast_collar_black": {
+    "criteria": {
+      "has_refined_leather": "2024-04-15 01:02:49 +0100"
+    },
+    "done": true
+  },
+  "swem:recipes/misc/western_breast_collar/western_breast_collar_magenta_from_breast_collar": {
+    "criteria": {
+      "has_western_breast_collar": "2024-04-15 01:02:48 +0100"
+    },
+    "done": true
+  },
+  "storagedrawers:recipes/storagedrawers/diamond_storage_upgrade": {
+    "criteria": {
+      "has_template": "2024-04-14 22:57:07 +0100"
+    },
+    "done": true
+  },
+  "swem:recipes/misc/saddle_bag/saddle_bag_red": {
+    "criteria": {
+      "has_refined_leather": "2024-04-15 01:02:49 +0100"
+    },
+    "done": true
+  },
+  "swem:recipes/misc/western_saddle/western_saddle_magenta_from_saddle": {
+    "criteria": {
+      "has_western_saddle": "2024-04-15 01:02:48 +0100"
+    },
+    "done": true
+  },
+  "swem:recipes/misc/grain_feeder_purple": {
+    "criteria": {
+      "has_dried_kelp": "2024-04-15 00:44:39 +0100"
+    },
+    "done": true
+  },
+  "decorative_blocks:recipes/decorations/brazier": {
+    "criteria": {
+      "has_bar": "2024-04-15 00:49:08 +0100"
+    },
+    "done": true
+  },
+  "swem:recipes/misc/english_bridle_black": {
+    "criteria": {
+      "has_refined_leather": "2024-04-15 01:02:49 +0100"
+    },
+    "done": true
+  },
+  "swem:recipes/misc/refined_leather_from_treated_leather_shapeless": {
+    "criteria": {
+      "has_leather": "2024-04-15 01:01:11 +0100"
+    },
+    "done": true
+  },
+  "swem:recipes/misc/pink_cone": {
+    "criteria": {
+      "has_dried_kelp": "2024-04-15 00:44:39 +0100"
+    },
+    "done": true
+  },
+  "swem:recipes/misc/english_leg_wraps/english_leg_wraps_red_from_leg_wraps": {
+    "criteria": {
+      "has_english_leg_wraps": "2024-04-15 01:28:29 +0100"
+    },
+    "done": true
+  },
+  "swem:recipes/misc/western_breast_collar/western_breast_collar_orange": {
+    "criteria": {
+      "has_refined_leather": "2024-04-15 01:02:49 +0100"
+    },
+    "done": true
+  },
+  "swem:recipes/misc/western_leg_wraps/western_leg_wraps_white_from_leg_wraps": {
+    "criteria": {
+      "has_western_leg_wraps": "2024-04-15 01:28:29 +0100"
+    },
+    "done": true
+  },
+  "swem:recipes/misc/western_bridle/western_bridle_green_from_bridle": {
+    "criteria": {
+      "has_western_bridle": "2024-04-15 01:02:48 +0100"
+    },
+    "done": true
+  },
+  "swem:recipes/misc/western_bridle/western_bridle_black": {
+    "criteria": {
+      "has_western_bridle": "2024-04-15 01:02:49 +0100"
+    },
+    "done": true
+  },
+  "swem:recipes/misc/english_saddle_brown": {
+    "criteria": {
+      "has_refined_leather": "2024-04-15 01:02:48 +0100"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/dye_white_bed": {
+    "criteria": {
+      "has_needed_dye": "2024-04-15 00:51:14 +0100"
+    },
+    "done": true
+  },
+  "swem:recipes/misc/western_saddle/western_saddle_gray": {
+    "criteria": {
+      "has_western_saddle": "2024-04-15 01:02:48 +0100"
+    },
+    "done": true
+  },
+  "swem:recipes/misc/western_girth_strap/western_girth_strap_cyan": {
+    "criteria": {
+      "has_western_girth_strap": "2024-04-15 01:02:48 +0100"
+    },
+    "done": true
+  },
+  "swem:recipes/misc/western_breast_collar/western_breast_collar_red": {
+    "criteria": {
+      "has_refined_leather": "2024-04-15 01:02:49 +0100"
+    },
+    "done": true
+  },
+  "swem:recipes/misc/western_blanket/western_blanket_cyan_from_blanket": {
+    "criteria": {
+      "has_western_blanket": "2024-04-15 01:02:49 +0100"
+    },
+    "done": true
+  },
+  "swem:recipes/misc/halter/dye_halter_cyan": {
+    "criteria": {
+      "has_halters": "2024-04-15 01:49:17 +0100"
+    },
+    "done": true
+  },
+  "fairylights:recipes/fairylights/orb_lantern": {
+    "criteria": {
+      "has_iron": "2024-04-14 23:20:54 +0100"
+    },
+    "done": true
+  },
+  "swem:recipes/misc/half_barrel/half_barrel_purple": {
+    "criteria": {
+      "has_half_barrels": "2024-04-15 00:44:39 +0100"
+    },
+    "done": true
+  },
+  "storagedrawers:recipes/storagedrawers/crimson_trim": {
+    "criteria": {
+      "has_planks": "2024-04-14 22:57:07 +0100"
+    },
+    "done": true
+  },
+  "farmersdelight:recipes/food/kelp_roll": {
+    "criteria": {
+      "has_dried_kelp": "2024-04-15 00:44:39 +0100"
+    },
+    "done": true
+  },
+  "swem:recipes/misc/western_blanket/western_blanket_pink_from_blanket": {
+    "criteria": {
+      "has_western_blanket": "2024-04-15 01:02:49 +0100"
+    },
+    "done": true
+  },
+  "swem:recipes/misc/western_saddle/western_saddle_brown": {
+    "criteria": {
+      "has_western_saddle": "2024-04-15 01:02:49 +0100"
+    },
+    "done": true
+  },
+  "minecraft:recipes/food/dried_kelp_from_smoking": {
+    "criteria": {
+      "has_kelp": "2024-04-15 00:28:17 +0100"
+    },
+    "done": true
+  },
+  "swem:recipes/misc/grain_feeder_cyan": {
+    "criteria": {
+      "has_dried_kelp": "2024-04-15 00:44:39 +0100"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/light_blue_dye_from_blue_white_dye": {
+    "criteria": {
+      "has_white_dye": "2024-04-15 00:51:14 +0100"
+    },
+    "done": true
+  },
+  "fairylights:recipes/fairylights/flower_light": {
+    "criteria": {
+      "has_iron": "2024-04-14 23:20:54 +0100"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/light_gray_dye_from_gray_white_dye": {
+    "criteria": {
+      "has_white_dye": "2024-04-15 00:51:14 +0100"
+    },
+    "done": true
+  },
+  "swem:recipes/misc/western_blanket/western_blanket_gray_from_blanket": {
+    "criteria": {
+      "has_western_blanket": "2024-04-15 01:02:49 +0100"
+    },
+    "done": true
+  },
+  "swem:recipes/misc/slow_feeder_magenta": {
+    "criteria": {
+      "has_dried_kelp": "2024-04-15 00:44:39 +0100"
+    },
+    "done": true
+  },
+  "swem:recipes/misc/western_breast_collar/western_breast_collar_lime": {
+    "criteria": {
+      "has_refined_leather": "2024-04-15 01:02:49 +0100"
+    },
+    "done": true
+  },
+  "swem:recipes/misc/half_barrel/half_barrel_light_blue": {
+    "criteria": {
+      "has_half_barrels": "2024-04-15 00:44:39 +0100"
+    },
+    "done": true
+  },
+  "swem:recipes/misc/western_saddle/western_saddle_green_from_saddle": {
+    "criteria": {
+      "has_western_saddle": "2024-04-15 01:02:48 +0100"
+    },
+    "done": true
+  },
+  "swem:recipes/misc/western_breast_collar/western_breast_collar_blue": {
+    "criteria": {
+      "has_refined_leather": "2024-04-15 01:02:49 +0100"
+    },
+    "done": true
+  },
+  "bakery:recipes/cake_dough": {
+    "criteria": {
+      "has_sugar": "2024-04-14 23:15:42 +0100"
+    },
+    "done": true
+  },
+  "swem:recipes/misc/halter/dye_halter_white": {
+    "criteria": {
+      "has_halters": "2024-04-15 01:49:17 +0100"
+    },
+    "done": true
+  },
+  "handcrafted:recipes/misc/white_cup": {
+    "criteria": {
+      "has_white_cup": "2024-04-15 00:51:14 +0100"
+    },
+    "done": true
+  },
+  "swem:recipes/misc/saddle_bag/saddle_bag_brown": {
+    "criteria": {
+      "has_refined_leather": "2024-04-15 01:02:48 +0100"
+    },
+    "done": true
+  },
+  "storagedrawers:recipes/storagedrawers/drawer_key": {
+    "criteria": {
+      "has_template": "2024-04-14 22:57:07 +0100"
+    },
+    "done": true
+  },
+  "feywild:recipes/misc/dwarven_anvil": {
+    "criteria": {
+      "criterion1": "2024-04-15 01:49:53 +0100"
+    },
+    "done": true
+  },
+  "swem:recipes/misc/western_bridle/western_bridle_pink_from_bridle": {
+    "criteria": {
+      "has_western_bridle": "2024-04-15 01:02:49 +0100"
+    },
+    "done": true
+  },
+  "swem:recipes/misc/western_breast_collar/western_breast_collar_green": {
+    "criteria": {
+      "has_refined_leather": "2024-04-15 01:02:49 +0100"
+    },
+    "done": true
+  },
+  "swem:recipes/misc/western_bridle/western_bridle_yellow": {
+    "criteria": {
+      "has_western_bridle": "2024-04-15 01:02:48 +0100"
+    },
+    "done": true
+  },
+  "swem:recipes/misc/halter/dye_halter_green": {
+    "criteria": {
+      "has_halters": "2024-04-15 01:49:17 +0100"
+    },
+    "done": true
+  },
+  "swem:recipes/misc/pasture_blanket/pasture_blanket_pink": {
+    "criteria": {
+      "has_pasture_blanket": "2024-04-15 01:28:29 +0100"
+    },
+    "done": true
+  },
+  "storagedrawers:recipes/storagedrawers/min_redstone_upgrade": {
+    "criteria": {
+      "has_template": "2024-04-14 22:57:07 +0100"
+    },
+    "done": true
+  },
+  "kawaiidishes:kawaiidishes/cookie": {
+    "criteria": {
+      "tick": "2024-04-14 23:37:30 +0100"
+    },
+    "done": true
+  },
+  "swem:recipes/misc/western_girth_strap/western_girth_strap_light_blue_from_girth_strap": {
+    "criteria": {
+      "has_western_girth_strap": "2024-04-15 01:02:49 +0100"
+    },
+    "done": true
+  },
+  "swem:recipes/misc/halter/dye_halter_light_blue": {
+    "criteria": {
+      "has_halters": "2024-04-15 01:49:17 +0100"
+    },
+    "done": true
+  },
+  "swem:recipes/misc/western_breast_collar/western_breast_collar_light_gray_from_breast_collar": {
+    "criteria": {
+      "has_western_breast_collar": "2024-04-15 01:02:49 +0100"
+    },
+    "done": true
+  },
+  "swem:recipes/misc/western_leg_wraps/western_leg_wraps_cyan": {
+    "criteria": {
+      "has_western_leg_wraps": "2024-04-15 01:28:29 +0100"
+    },
+    "done": true
+  },
+  "swem:recipes/misc/western_saddle/western_saddle_pink_from_saddle": {
+    "criteria": {
+      "has_western_saddle": "2024-04-15 01:02:49 +0100"
+    },
+    "done": true
+  },
+  "swem:recipes/misc/western_bridle/western_bridle_brown": {
+    "criteria": {
+      "has_western_bridle": "2024-04-15 01:02:49 +0100"
+    },
+    "done": true
+  },
+  "swem:recipes/misc/western_blanket/western_blanket_pink": {
+    "criteria": {
+      "has_western_blanket": "2024-04-15 01:02:49 +0100"
+    },
+    "done": true
+  },
+  "swem:recipes/misc/slow_feeder_gray": {
+    "criteria": {
+      "has_dried_kelp": "2024-04-15 00:44:39 +0100"
+    },
+    "done": true
+  },
+  "swem:recipes/misc/toy_jolly_ball_hay": {
+    "criteria": {
+      "has_kelp": "2024-04-15 00:44:39 +0100"
+    },
+    "done": true
+  },
+  "swem:recipes/misc/western_bridle/western_bridle_light_blue": {
+    "criteria": {
+      "has_western_bridle": "2024-04-15 01:02:49 +0100"
+    },
+    "done": true
+  },
+  "swem:recipes/misc/orange_cone": {
+    "criteria": {
+      "has_dried_kelp": "2024-04-15 00:44:39 +0100"
+    },
+    "done": true
+  },
+  "swem:recipes/misc/english_breast_collar_brown": {
+    "criteria": {
+      "has_refined_leather": "2024-04-15 01:02:49 +0100"
+    },
+    "done": true
+  },
+  "swem:recipes/misc/western_leg_wraps/western_leg_wraps_black": {
+    "criteria": {
+      "has_western_leg_wraps": "2024-04-15 01:28:29 +0100"
+    },
+    "done": true
+  },
+  "swem:recipes/misc/slow_feeder_light_blue": {
+    "criteria": {
+      "has_dried_kelp": "2024-04-15 00:44:39 +0100"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/white_candle": {
+    "criteria": {
+      "has_white_dye": "2024-04-15 00:51:14 +0100"
+    },
+    "done": true
+  },
+  "swem:recipes/misc/english_leg_wraps/english_leg_wraps_red": {
+    "criteria": {
+      "has_english_leg_wraps": "2024-04-15 01:28:29 +0100"
+    },
+    "done": true
+  },
+  "swem:recipes/misc/western_bridle/western_bridle_white_from_bridle": {
+    "criteria": {
+      "has_western_bridle": "2024-04-15 01:02:49 +0100"
+    },
+    "done": true
+  },
+  "swem:recipes/misc/pasture_blanket/pasture_blanket_magenta": {
+    "criteria": {
+      "has_pasture_blanket": "2024-04-15 01:28:29 +0100"
+    },
+    "done": true
+  },
+  "storagedrawers:recipes/storagedrawers/max_redstone_upgrade": {
+    "criteria": {
+      "has_template": "2024-04-14 22:57:07 +0100"
+    },
+    "done": true
+  },
+  "fairylights:recipes/fairylights/snowflake_light": {
+    "criteria": {
+      "has_iron": "2024-04-14 23:20:54 +0100"
+    },
+    "done": true
+  },
+  "swem:recipes/misc/english_leg_wraps/english_leg_wraps_light_gray_from_leg_wraps": {
+    "criteria": {
+      "has_english_leg_wraps": "2024-04-15 01:28:29 +0100"
+    },
+    "done": true
+  },
+  "swem:recipes/misc/western_bridle/western_bridle_light_gray_from_bridle": {
+    "criteria": {
+      "has_western_bridle": "2024-04-15 01:02:49 +0100"
+    },
+    "done": true
+  },
+  "swem:recipes/misc/western_girth_strap/western_girth_strap_yellow_from_girth_strap": {
+    "criteria": {
+      "has_western_girth_strap": "2024-04-15 01:02:49 +0100"
+    },
+    "done": true
+  },
+  "swem:recipes/misc/western_leg_wraps/western_leg_wraps_pink_from_leg_wraps": {
+    "criteria": {
+      "has_western_leg_wraps": "2024-04-15 01:28:29 +0100"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/white_stained_glass_pane_from_glass_pane": {
+    "criteria": {
+      "has_white_dye": "2024-04-15 00:51:14 +0100"
+    },
+    "done": true
+  },
+  "swem:recipes/misc/western_breast_collar/western_breast_collar_light_blue": {
+    "criteria": {
+      "has_refined_leather": "2024-04-15 01:02:49 +0100"
+    },
+    "done": true
+  },
+  "createdeco:recipes/decorations/iron_hull": {
+    "criteria": {
+      "has_item": "2024-04-15 01:49:53 +0100"
+    },
+    "done": true
+  },
+  "swem:recipes/misc/halter/dye_halter_yellow": {
+    "criteria": {
+      "has_halters": "2024-04-15 01:49:17 +0100"
+    },
+    "done": true
+  },
+  "swem:recipes/misc/slow_feeder_pink": {
+    "criteria": {
+      "has_dried_kelp": "2024-04-15 00:44:39 +0100"
+    },
+    "done": true
+  },
+  "swem:recipes/misc/western_leg_wraps/western_leg_wraps_light_gray_from_leg_wraps": {
+    "criteria": {
+      "has_western_leg_wraps": "2024-04-15 01:28:29 +0100"
+    },
+    "done": true
+  },
+  "swem:recipes/misc/pasture_blanket/pasture_blanket_armored_orange": {
+    "criteria": {
+      "has_pasture_blanket_armored": "2024-04-15 01:28:29 +0100"
+    },
+    "done": true
+  },
+  "storagedrawers:recipes/storagedrawers/spruce_trim": {
+    "criteria": {
+      "has_planks": "2024-04-14 22:57:07 +0100"
+    },
+    "done": true
+  },
+  "swem:recipes/misc/blue_cone": {
+    "criteria": {
+      "has_dried_kelp": "2024-04-15 00:44:39 +0100"
+    },
+    "done": true
+  },
+  "swem:recipes/misc/hat_cowboy": {
+    "criteria": {
+      "has_leather": "2024-04-15 01:02:48 +0100"
+    },
+    "done": true
+  },
+  "swem:recipes/misc/western_blanket/western_blanket_gray": {
+    "criteria": {
+      "has_western_blanket": "2024-04-15 01:02:49 +0100"
+    },
+    "done": true
+  },
+  "swem:recipes/misc/saddle_bag/saddle_bag_black": {
+    "criteria": {
+      "has_refined_leather": "2024-04-15 01:02:49 +0100"
+    },
+    "done": true
+  },
+  "swem:recipes/misc/western_blanket/western_blanket_black": {
+    "criteria": {
+      "has_western_blanket": "2024-04-15 01:02:49 +0100"
+    },
+    "done": true
+  },
+  "swem:recipes/misc/western_blanket/western_blanket_orange": {
+    "criteria": {
+      "has_western_blanket": "2024-04-15 01:02:49 +0100"
+    },
+    "done": true
+  },
+  "storagedrawers:recipes/storagedrawers/quantify_key": {
+    "criteria": {
+      "has_template": "2024-04-14 22:57:07 +0100"
+    },
+    "done": true
+  },
+  "swem:recipes/misc/western_saddle/western_saddle_black": {
+    "criteria": {
+      "has_western_saddle": "2024-04-15 01:02:49 +0100"
+    },
+    "done": true
+  },
+  "swem:recipes/misc/western_blanket/western_blanket_blue_from_blanket": {
+    "criteria": {
+      "has_western_blanket": "2024-04-15 01:02:49 +0100"
+    },
+    "done": true
+  },
+  "swem:recipes/misc/whitewash_stall_horse": {
+    "criteria": {
+      "has_bars": "2024-04-15 00:49:08 +0100"
+    },
+    "done": true
+  },
+  "swem:recipes/misc/western_bridle/western_bridle_pink": {
+    "criteria": {
+      "has_western_bridle": "2024-04-15 01:02:49 +0100"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/dye_white_wool": {
+    "criteria": {
+      "has_needed_dye": "2024-04-15 00:51:14 +0100"
+    },
+    "done": true
+  },
+  "swem:recipes/misc/pasture_blanket/pasture_blanket_white_armored_from_blanket": {
+    "criteria": {
+      "has_pasture_blanket_armored": "2024-04-15 01:28:29 +0100"
+    },
+    "done": true
+  },
+  "swem:recipes/misc/horse_armor_cloth": {
+    "criteria": {
+      "has_any_carpet": "2024-04-15 01:28:29 +0100"
+    },
+    "done": true
+  },
+  "swem:recipes/misc/purple_cone": {
+    "criteria": {
+      "has_dried_kelp": "2024-04-15 00:44:39 +0100"
+    },
+    "done": true
+  },
+  "swem:recipes/misc/english_leg_wraps/english_leg_wraps_brown": {
+    "criteria": {
+      "has_english_leg_wraps": "2024-04-15 01:28:29 +0100"
+    },
+    "done": true
+  },
+  "decorative_blocks:recipes/decorations/soul_brazier": {
+    "criteria": {
+      "has_bar": "2024-04-15 00:49:08 +0100"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/enchanting_table": {
+    "criteria": {
+      "has_obsidian": "2024-04-14 23:13:33 +0100"
+    },
+    "done": true
+  },
+  "swem:recipes/misc/western_saddle/western_saddle_pink": {
+    "criteria": {
+      "has_western_saddle": "2024-04-15 01:02:49 +0100"
+    },
+    "done": true
+  },
+  "swem:recipes/misc/pasture_blanket/pasture_blanket_armored_cyan": {
+    "criteria": {
+      "has_pasture_blanket_armored": "2024-04-15 01:28:29 +0100"
+    },
+    "done": true
+  },
+  "swem:recipes/misc/adventure_blanket": {
+    "criteria": {
+      "has_refined_leather": "2024-04-15 01:02:49 +0100"
+    },
+    "done": true
+  },
+  "swem:recipes/misc/half_barrel/half_barrel_light_gray": {
+    "criteria": {
+      "has_half_barrels": "2024-04-15 00:44:39 +0100"
+    },
+    "done": true
+  },
+  "swem:recipes/misc/english_leg_wraps/english_leg_wraps_blue_from_leg_wraps": {
+    "criteria": {
+      "has_english_leg_wraps": "2024-04-15 01:28:29 +0100"
+    },
+    "done": true
+  },
+  "swem:recipes/misc/english_leg_wraps/english_leg_wraps_purple": {
+    "criteria": {
+      "has_english_leg_wraps": "2024-04-15 01:28:29 +0100"
+    },
+    "done": true
+  },
+  "swem:recipes/misc/western_breast_collar/western_breast_collar_gray": {
+    "criteria": {
+      "has_refined_leather": "2024-04-15 01:02:49 +0100"
+    },
+    "done": true
+  },
+  "swem:recipes/misc/halter/dye_halter_red": {
+    "criteria": {
+      "has_halters": "2024-04-15 01:49:17 +0100"
+    },
+    "done": true
+  },
+  "swem:recipes/misc/english_blanket/english_blanket_green": {
+    "criteria": {
+      "has_english_blanket": "2024-04-15 01:28:29 +0100"
+    },
+    "done": true
+  },
+  "storagedrawers:recipes/storagedrawers/one_stack_upgrade": {
+    "criteria": {
+      "has_template": "2024-04-14 22:57:07 +0100"
+    },
+    "done": true
+  },
+  "handcrafted:recipes/misc/kitchen_hood": {
+    "criteria": {
+      "has_kitchen_hood": "2024-04-15 00:49:08 +0100"
+    },
+    "done": true
+  },
+  "swem:recipes/misc/english_leg_wraps/english_leg_wraps_gray": {
+    "criteria": {
+      "has_english_leg_wraps": "2024-04-15 01:28:29 +0100"
+    },
+    "done": true
+  },
+  "swem:recipes/misc/dark_oak_stall_horse": {
+    "criteria": {
+      "has_bars": "2024-04-15 00:49:08 +0100"
+    },
+    "done": true
+  },
+  "swem:recipes/misc/english_blanket/english_blanket_white": {
+    "criteria": {
+      "has_english_blanket": "2024-04-15 01:28:29 +0100"
+    },
+    "done": true
+  },
+  "swem:recipes/misc/halter/dye_halter_lime": {
+    "criteria": {
+      "has_halters": "2024-04-15 01:49:17 +0100"
+    },
+    "done": true
+  },
+  "swem:recipes/misc/halter/dye_halter_blue": {
+    "criteria": {
+      "has_halters": "2024-04-15 01:49:17 +0100"
+    },
+    "done": true
+  },
+  "astikorcarts:recipes/supply_cart": {
+    "criteria": {
+      "has_wheel": "2024-04-14 22:57:07 +0100"
+    },
+    "done": true
+  },
+  "swem:recipes/misc/western_girth_strap/western_girth_strap_blue_from_girth_strap": {
+    "criteria": {
+      "has_western_girth_strap": "2024-04-15 01:02:49 +0100"
+    },
+    "done": true
+  },
+  "swem:recipes/misc/western_breast_collar/western_breast_collar_yellow_from_breast_collar": {
+    "criteria": {
+      "has_western_breast_collar": "2024-04-15 01:02:49 +0100"
+    },
+    "done": true
+  },
+  "swem:recipes/misc/western_girth_strap/western_girth_strap_cyan_from_girth_strap": {
+    "criteria": {
+      "has_western_girth_strap": "2024-04-15 01:02:49 +0100"
+    },
+    "done": true
+  },
+  "swem:recipes/misc/birch_stall_care": {
+    "criteria": {
+      "has_bars": "2024-04-15 00:49:08 +0100"
+    },
+    "done": true
+  },
+  "swem:recipes/misc/grain_feeder_pink": {
+    "criteria": {
+      "has_dried_kelp": "2024-04-15 00:44:39 +0100"
+    },
+    "done": true
+  },
+  "swem:recipes/misc/western_bridle/western_bridle_gray": {
+    "criteria": {
+      "has_western_bridle": "2024-04-15 01:02:48 +0100"
+    },
+    "done": true
+  },
+  "swem:recipes/misc/english_leg_wraps/english_leg_wraps_purple_from_leg_wraps": {
+    "criteria": {
+      "has_english_leg_wraps": "2024-04-15 01:28:29 +0100"
+    },
+    "done": true
+  },
+  "storagedrawers:recipes/storagedrawers/acacia_trim": {
+    "criteria": {
+      "has_planks": "2024-04-14 22:57:07 +0100"
+    },
+    "done": true
+  },
+  "swem:recipes/misc/western_blanket/western_blanket_green_from_blanket": {
+    "criteria": {
+      "has_western_blanket": "2024-04-15 01:02:49 +0100"
+    },
+    "done": true
+  },
+  "swem:recipes/misc/western_girth_strap/western_girth_strap_yellow": {
+    "criteria": {
+      "has_western_girth_strap": "2024-04-15 01:02:49 +0100"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/lime_dye": {
+    "criteria": {
+      "has_white_dye": "2024-04-15 00:51:14 +0100"
+    },
+    "done": true
+  },
+  "swem:recipes/misc/western_breast_collar/western_breast_collar_blue_from_breast_collar": {
+    "criteria": {
+      "has_western_breast_collar": "2024-04-15 01:02:49 +0100"
+    },
+    "done": true
+  },
+  "swem:recipes/misc/halter/dye_halter_magenta": {
+    "criteria": {
+      "has_halters": "2024-04-15 01:49:17 +0100"
+    },
+    "done": true
+  },
+  "swem:recipes/misc/pasture_blanket/pasture_blanket_green": {
+    "criteria": {
+      "has_pasture_blanket": "2024-04-15 01:28:29 +0100"
+    },
+    "done": true
+  },
+  "swem:recipes/misc/grain_feeder_white": {
+    "criteria": {
+      "has_dried_kelp": "2024-04-15 00:44:39 +0100"
+    },
+    "done": true
+  },
+  "farmersdelight:recipes/misc/gold_nugget_from_smelting_knife": {
+    "criteria": {
+      "has_golden_knife": "2024-04-14 23:16:22 +0100"
+    },
+    "done": true
+  },
+  "swem:recipes/misc/english_leg_wraps/english_leg_wraps_white": {
+    "criteria": {
+      "has_english_leg_wraps": "2024-04-15 01:28:29 +0100"
+    },
+    "done": true
+  },
+  "swem:recipes/misc/western_bridle/western_bridle_light_blue_from_bridle": {
+    "criteria": {
+      "has_western_bridle": "2024-04-15 01:02:48 +0100"
+    },
+    "done": true
+  },
+  "swem:recipes/misc/western_leg_wraps/western_leg_wraps_white": {
+    "criteria": {
+      "has_western_leg_wraps": "2024-04-15 01:28:29 +0100"
+    },
+    "done": true
+  },
+  "lootr:50loot": {
+    "criteria": {
+      "loot_stat": "2024-04-14 23:15:25 +0100"
+    },
+    "done": true
+  },
+  "swem:recipes/misc/toy_jolly_apple_snack": {
+    "criteria": {
+      "has_kelp": "2024-04-15 00:44:39 +0100"
+    },
+    "done": true
+  },
+  "swem:recipes/misc/gray_cone": {
+    "criteria": {
+      "has_dried_kelp": "2024-04-15 00:44:39 +0100"
+    },
+    "done": true
+  },
+  "swem:recipes/misc/western_saddle/western_saddle_purple_from_saddle": {
+    "criteria": {
+      "has_western_saddle": "2024-04-15 01:02:49 +0100"
+    },
+    "done": true
+  },
+  "swem:recipes/misc/western_saddle/western_saddle_orange": {
+    "criteria": {
+      "has_western_saddle": "2024-04-15 01:02:48 +0100"
+    },
+    "done": true
+  },
+  "storagedrawers:recipes/storagedrawers/concealment_key": {
+    "criteria": {
+      "has_template": "2024-04-14 22:57:07 +0100"
+    },
+    "done": true
+  },
+  "swem:recipes/misc/saddle_bag/saddle_bag_yellow": {
+    "criteria": {
+      "has_refined_leather": "2024-04-15 01:02:48 +0100"
+    },
+    "done": true
+  },
+  "swem:recipes/misc/english_leg_wraps/english_leg_wraps_pink": {
+    "criteria": {
+      "has_english_leg_wraps": "2024-04-15 01:28:29 +0100"
+    },
+    "done": true
+  },
+  "swem:recipes/misc/western_breast_collar/western_breast_collar_red_from_breast_collar": {
+    "criteria": {
+      "has_western_breast_collar": "2024-04-15 01:02:49 +0100"
+    },
+    "done": true
+  },
+  "swem:recipes/misc/western_leg_wraps/western_leg_wraps_green": {
+    "criteria": {
+      "has_western_leg_wraps": "2024-04-15 01:28:29 +0100"
+    },
+    "done": true
+  },
+  "swem:recipes/misc/western_saddle/western_saddle_yellow_from_saddle": {
+    "criteria": {
+      "has_western_saddle": "2024-04-15 01:02:49 +0100"
+    },
+    "done": true
+  },
+  "swem:recipes/misc/adventure_saddle_netherite": {
+    "criteria": {
+      "has_adventure_saddle": "2024-04-15 01:03:51 +0100"
+    },
+    "done": true
+  },
+  "swem:recipes/misc/saddle_bag/saddle_bag_cyan": {
+    "criteria": {
+      "has_refined_leather": "2024-04-15 01:02:49 +0100"
+    },
+    "done": true
+  },
+  "swem:recipes/misc/pasture_blanket/pasture_blanket_red_armored_from_blanket": {
+    "criteria": {
+      "has_pasture_blanket_armored": "2024-04-15 01:28:29 +0100"
+    },
+    "done": true
+  },
+  "swem:recipes/misc/western_leg_wraps/western_leg_wraps_yellow_from_leg_wraps": {
+    "criteria": {
+      "has_western_leg_wraps": "2024-04-15 01:28:29 +0100"
+    },
+    "done": true
+  },
+  "swem:recipes/misc/western_girth_strap/western_girth_strap_red": {
+    "criteria": {
+      "has_western_girth_strap": "2024-04-15 01:02:48 +0100"
+    },
+    "done": true
+  },
+  "naturescompass:natures_compass_sapling": {
+    "criteria": {
+      "has_recipe": "2024-04-14 23:25:03 +0100"
+    },
+    "done": true
+  },
+  "swem:recipes/misc/grain_feeder_green": {
+    "criteria": {
+      "has_dried_kelp": "2024-04-15 00:44:39 +0100"
+    },
+    "done": true
+  },
+  "swem:recipes/misc/pasture_blanket/pasture_blanket_white": {
+    "criteria": {
+      "has_pasture_blanket": "2024-04-15 01:28:29 +0100"
+    },
+    "done": true
+  },
+  "swem:recipes/misc/western_girth_strap/western_girth_strap_brown_from_girth_strap": {
+    "criteria": {
+      "has_western_girth_strap": "2024-04-15 01:02:48 +0100"
+    },
+    "done": true
+  },
+  "swem:recipes/misc/light_blue_cone": {
+    "criteria": {
+      "has_dried_kelp": "2024-04-15 00:44:39 +0100"
+    },
+    "done": true
+  },
+  "swem:recipes/misc/western_girth_strap/western_girth_strap_green": {
+    "criteria": {
+      "has_western_girth_strap": "2024-04-15 01:02:49 +0100"
+    },
+    "done": true
+  },
+  "swem:recipes/misc/saddle_bag/saddle_bag_magenta": {
+    "criteria": {
+      "has_refined_leather": "2024-04-15 01:02:49 +0100"
+    },
+    "done": true
+  },
+  "swem:recipes/misc/brown_cone": {
+    "criteria": {
+      "has_dried_kelp": "2024-04-15 00:44:39 +0100"
+    },
+    "done": true
+  },
+  "swem:recipes/misc/yellow_cone": {
+    "criteria": {
+      "has_dried_kelp": "2024-04-15 00:44:39 +0100"
+    },
+    "done": true
+  },
+  "swem:recipes/misc/western_girth_strap/western_girth_strap_white": {
+    "criteria": {
+      "has_western_girth_strap": "2024-04-15 01:02:48 +0100"
+    },
+    "done": true
+  },
+  "swem:recipes/misc/pasture_blanket/pasture_blanket_armored_pink": {
+    "criteria": {
+      "has_pasture_blanket_armored": "2024-04-15 01:28:29 +0100"
+    },
+    "done": true
+  },
+  "swem:recipes/misc/halter/dye_halter_purple": {
+    "criteria": {
+      "has_halters": "2024-04-15 01:49:17 +0100"
+    },
+    "done": true
+  },
+  "swem:recipes/misc/pasture_blanket/pasture_blanket_armored_white": {
+    "criteria": {
+      "has_pasture_blanket_armored": "2024-04-15 01:28:29 +0100"
+    },
+    "done": true
+  },
+  "swem:recipes/misc/pasture_blanket/pasture_blanket_armored_green": {
+    "criteria": {
+      "has_pasture_blanket_armored": "2024-04-15 01:28:29 +0100"
+    },
+    "done": true
+  },
+  "swem:recipes/misc/western_leg_wraps/western_leg_wraps_orange": {
+    "criteria": {
+      "has_western_leg_wraps": "2024-04-15 01:28:29 +0100"
+    },
+    "done": true
+  },
+  "swem:recipes/misc/english_leg_wraps/english_leg_wraps_green": {
+    "criteria": {
+      "has_english_leg_wraps": "2024-04-15 01:28:29 +0100"
+    },
+    "done": true
+  },
+  "swem:recipes/misc/half_barrel/half_barrel_brown": {
+    "criteria": {
+      "has_half_barrels": "2024-04-15 00:44:39 +0100"
+    },
+    "done": true
+  },
+  "swem:recipes/misc/western_blanket/western_blanket_lime_from_blanket": {
+    "criteria": {
+      "has_western_blanket": "2024-04-15 01:02:49 +0100"
+    },
+    "done": true
+  },
+  "storagedrawers:recipes/storagedrawers/gold_storage_upgrade": {
+    "criteria": {
+      "has_template": "2024-04-14 22:57:07 +0100"
+    },
+    "done": true
+  },
+  "swem:recipes/misc/grain_feeder_yellow": {
+    "criteria": {
+      "has_dried_kelp": "2024-04-15 00:44:39 +0100"
+    },
+    "done": true
+  },
+  "swem:recipes/misc/adventure_breast_collar": {
+    "criteria": {
+      "has_refined_leather": "2024-04-15 01:02:48 +0100"
+    },
+    "done": true
+  },
+  "swem:recipes/misc/western_breast_collar/western_breast_collar_black_from_breast_collar": {
+    "criteria": {
+      "has_western_breast_collar": "2024-04-15 01:02:49 +0100"
+    },
+    "done": true
+  },
+  "minecraft:recipes/food/dried_kelp_from_smelting": {
+    "criteria": {
+      "has_kelp": "2024-04-15 00:28:17 +0100"
+    },
+    "done": true
+  },
+  "swem:recipes/misc/white_cone": {
+    "criteria": {
+      "has_dried_kelp": "2024-04-15 00:44:39 +0100"
+    },
+    "done": true
+  },
+  "swem:recipes/misc/english_blanket/english_blanket_cyan": {
+    "criteria": {
+      "has_english_blanket": "2024-04-15 01:28:29 +0100"
+    },
+    "done": true
+  },
+  "swem:recipes/misc/western_leg_wraps/western_leg_wraps_cyan_from_leg_wraps": {
+    "criteria": {
+      "has_western_leg_wraps": "2024-04-15 01:28:29 +0100"
+    },
+    "done": true
+  },
+  "occultism:recipes/crushing/crushing/iron_dust": {
+    "criteria": {
+      "has_iron": "2024-04-15 01:47:46 +0100"
+    },
+    "done": true
+  },
+  "minecraft:recipes/food/dried_kelp_from_campfire_cooking": {
+    "criteria": {
+      "has_kelp": "2024-04-15 00:28:17 +0100"
+    },
+    "done": true
+  },
+  "swem:recipes/misc/western_girth_strap/western_girth_strap_light_gray": {
+    "criteria": {
+      "has_western_girth_strap": "2024-04-15 01:02:48 +0100"
+    },
+    "done": true
+  },
+  "swem:recipes/misc/western_leg_wraps/western_leg_wraps_light_blue": {
+    "criteria": {
+      "has_western_leg_wraps": "2024-04-15 01:28:29 +0100"
+    },
+    "done": true
+  },
+  "swem:recipes/misc/grain_feeder_magenta": {
+    "criteria": {
+      "has_dried_kelp": "2024-04-15 00:44:39 +0100"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/iron_ingot_from_blasting_iron_ore": {
+    "criteria": {
+      "has_iron_ore": "2024-04-15 01:47:46 +0100"
+    },
+    "done": true
+  },
+  "swem:recipes/misc/pasture_blanket/pasture_blanket_orange_armored_from_blanket": {
+    "criteria": {
+      "has_pasture_blanket_armored": "2024-04-15 01:28:29 +0100"
+    },
+    "done": true
+  },
+  "swem:recipes/misc/english_blanket/english_blanket_black_from_blanket": {
+    "criteria": {
+      "has_english_blanket": "2024-04-15 01:28:29 +0100"
+    },
+    "done": true
+  },
+  "kawaiidishes:recipes/misc/cookie_of_unbinding": {
+    "criteria": {
+      "has_cookie": "2024-04-14 23:37:30 +0100"
+    },
+    "done": true
+  },
+  "swem:recipes/misc/pasture_blanket/pasture_blanket_brown_armored_from_blanket": {
+    "criteria": {
+      "has_pasture_blanket_armored": "2024-04-15 01:28:29 +0100"
+    },
+    "done": true
+  },
+  "swem:recipes/misc/half_barrel/half_barrel_pink": {
+    "criteria": {
+      "has_half_barrels": "2024-04-15 00:44:39 +0100"
+    },
+    "done": true
+  },
+  "swem:recipes/misc/western_leg_wraps/western_leg_wraps_blue": {
+    "criteria": {
+      "has_western_leg_wraps": "2024-04-15 01:28:29 +0100"
+    },
+    "done": true
+  },
+  "swem:recipes/misc/spruce_stall_care": {
+    "criteria": {
+      "has_bars": "2024-04-15 00:49:08 +0100"
+    },
+    "done": true
+  },
+  "swem:recipes/misc/pasture_blanket/pasture_blanket_light_blue_armored_from_blanket": {
+    "criteria": {
+      "has_pasture_blanket_armored": "2024-04-15 01:28:29 +0100"
+    },
+    "done": true
+  },
+  "storagedrawers:recipes/storagedrawers/void_upgrade": {
+    "criteria": {
+      "has_template": "2024-04-14 22:57:07 +0100"
+    },
+    "done": true
+  },
+  "swem:recipes/misc/black_cone": {
+    "criteria": {
+      "has_dried_kelp": "2024-04-15 00:44:39 +0100"
+    },
+    "done": true
+  },
+  "swem:recipes/misc/western_leg_wraps/western_leg_wraps_lime": {
+    "criteria": {
+      "has_western_leg_wraps": "2024-04-15 01:28:29 +0100"
+    },
+    "done": true
+  },
+  "storagedrawers:recipes/storagedrawers/fill_level_upgrade": {
+    "criteria": {
+      "has_template": "2024-04-14 22:57:07 +0100"
+    },
+    "done": true
+  },
+  "swem:recipes/misc/western_bridle/western_bridle_black_from_bridle": {
+    "criteria": {
+      "has_western_bridle": "2024-04-15 01:02:48 +0100"
+    },
+    "done": true
+  },
+  "fairylights:recipes/fairylights/heart_light": {
+    "criteria": {
+      "has_iron": "2024-04-14 23:20:54 +0100"
+    },
+    "done": true
+  },
+  "swem:recipes/misc/pasture_blanket/pasture_blanket_cyan_armored_from_blanket": {
+    "criteria": {
+      "has_pasture_blanket_armored": "2024-04-15 01:28:29 +0100"
+    },
+    "done": true
+  },
+  "swem:recipes/misc/western_breast_collar/western_breast_collar_orange_from_breast_collar": {
+    "criteria": {
+      "has_western_breast_collar": "2024-04-15 01:02:49 +0100"
+    },
+    "done": true
+  },
+  "swem:recipes/misc/western_girth_strap/western_girth_strap_pink_from_girth_strap": {
+    "criteria": {
+      "has_western_girth_strap": "2024-04-15 01:02:49 +0100"
+    },
+    "done": true
+  },
+  "swem:recipes/misc/oak_stall_care": {
+    "criteria": {
+      "has_bars": "2024-04-15 00:49:08 +0100"
+    },
+    "done": true
+  },
+  "swem:recipes/misc/western_saddle/western_saddle_gray_from_saddle": {
+    "criteria": {
+      "has_western_saddle": "2024-04-15 01:02:49 +0100"
+    },
+    "done": true
+  },
+  "swem:recipes/misc/english_bridle_brown": {
+    "criteria": {
+      "has_refined_leather": "2024-04-15 01:02:49 +0100"
+    },
+    "done": true
+  },
+  "swem:recipes/misc/pasture_blanket/pasture_blanket_armored_purple": {
+    "criteria": {
+      "has_pasture_blanket_armored": "2024-04-15 01:28:29 +0100"
+    },
+    "done": true
+  },
+  "fairylights:recipes/fairylights/oil_lantern_light": {
+    "criteria": {
+      "has_iron": "2024-04-14 23:20:54 +0100"
+    },
+    "done": true
+  },
+  "swem:recipes/misc/half_barrel/half_barrel_orange": {
+    "criteria": {
+      "has_half_barrels": "2024-04-15 00:44:39 +0100"
+    },
+    "done": true
+  },
+  "swem:recipes/misc/saddle_bag/saddle_bag_light_gray": {
+    "criteria": {
+      "has_refined_leather": "2024-04-15 01:02:49 +0100"
+    },
+    "done": true
+  },
+  "astikorcarts:recipes/animal_cart": {
+    "criteria": {
+      "has_wheel": "2024-04-14 22:57:07 +0100"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/dried_kelp_block": {
+    "criteria": {
+      "has_dried_kelp": "2024-04-15 00:44:39 +0100"
+    },
+    "done": true
+  },
+  "swem:recipes/misc/english_blanket/english_blanket_purple_from_blanket": {
+    "criteria": {
+      "has_english_blanket": "2024-04-15 01:28:29 +0100"
+    },
+    "done": true
+  },
+  "swem:recipes/misc/english_blanket/english_blanket_light_gray_from_blanket": {
+    "criteria": {
+      "has_english_blanket": "2024-04-15 01:28:29 +0100"
+    },
+    "done": true
+  },
+  "swem:recipes/misc/pasture_blanket/pasture_blanket_black_armored_from_blanket": {
+    "criteria": {
+      "has_pasture_blanket_armored": "2024-04-15 01:28:29 +0100"
+    },
+    "done": true
+  },
+  "swem:recipes/misc/english_blanket/english_blanket_light_blue_from_blanket": {
+    "criteria": {
+      "has_english_blanket": "2024-04-15 01:28:29 +0100"
+    },
+    "done": true
+  },
+  "swem:recipes/misc/acacia_stall_horse": {
+    "criteria": {
+      "has_bars": "2024-04-15 00:49:08 +0100"
+    },
+    "done": true
+  },
+  "swem:recipes/misc/english_blanket/english_blanket_light_blue": {
+    "criteria": {
+      "has_english_blanket": "2024-04-15 01:28:29 +0100"
+    },
+    "done": true
+  },
+  "swem:recipes/misc/western_bridle/western_bridle_orange": {
+    "criteria": {
+      "has_western_bridle": "2024-04-15 01:02:49 +0100"
+    },
+    "done": true
+  },
+  "swem:recipes/misc/half_barrel/half_barrel_red": {
+    "criteria": {
+      "has_half_barrels": "2024-04-15 00:44:39 +0100"
+    },
+    "done": true
+  },
+  "swem:recipes/misc/pasture_blanket/pasture_blanket_gray": {
+    "criteria": {
+      "has_pasture_blanket": "2024-04-15 01:28:29 +0100"
+    },
+    "done": true
+  },
+  "swem:recipes/misc/western_breast_collar/western_breast_collar_pink": {
+    "criteria": {
+      "has_refined_leather": "2024-04-15 01:02:49 +0100"
+    },
+    "done": true
+  },
+  "swem:recipes/misc/western_blanket/western_blanket_blue": {
+    "criteria": {
+      "has_western_blanket": "2024-04-15 01:02:49 +0100"
+    },
+    "done": true
+  },
+  "swem:recipes/misc/adventure_saddle_emerald": {
+    "criteria": {
+      "has_adventure_saddle": "2024-04-15 01:03:51 +0100"
+    },
+    "done": true
+  },
+  "storagedrawers:recipes/storagedrawers/iron_storage_upgrade": {
+    "criteria": {
+      "has_template": "2024-04-14 22:57:07 +0100"
+    },
+    "done": true
+  },
+  "minecraft:recipes/food/cooked_cod_from_campfire_cooking": {
+    "criteria": {
+      "has_cod": "2024-04-14 23:35:39 +0100"
+    },
+    "done": true
+  },
+  "swem:recipes/misc/half_barrel/half_barrel_gray": {
+    "criteria": {
+      "has_half_barrels": "2024-04-15 00:44:39 +0100"
+    },
+    "done": true
+  },
+  "swem:recipes/misc/western_bridle/western_bridle_purple_from_bridle": {
+    "criteria": {
+      "has_western_bridle": "2024-04-15 01:02:49 +0100"
+    },
+    "done": true
+  },
+  "swem:recipes/misc/adventure_leg_wraps": {
+    "criteria": {
+      "has_refined_leather": "2024-04-15 01:02:49 +0100"
+    },
+    "done": true
+  },
+  "swem:recipes/misc/western_blanket/western_blanket_lime": {
+    "criteria": {
+      "has_western_blanket": "2024-04-15 01:02:48 +0100"
+    },
+    "done": true
+  },
+  "swem:recipes/misc/western_breast_collar/western_breast_collar_brown": {
+    "criteria": {
+      "has_refined_leather": "2024-04-15 01:02:49 +0100"
+    },
+    "done": true
+  },
+  "fairylights:recipes/fairylights/skull_light": {
+    "criteria": {
+      "has_iron": "2024-04-14 23:20:54 +0100"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/light_gray_dye_from_black_white_dye": {
+    "criteria": {
+      "has_white_dye": "2024-04-15 00:51:14 +0100"
+    },
+    "done": true
+  },
+  "swem:recipes/misc/slow_feeder_green": {
+    "criteria": {
+      "has_dried_kelp": "2024-04-15 00:44:39 +0100"
+    },
+    "done": true
+  },
+  "swem:recipes/misc/english_leg_wraps/english_leg_wraps_lime_from_leg_wraps": {
+    "criteria": {
+      "has_english_leg_wraps": "2024-04-15 01:28:29 +0100"
+    },
+    "done": true
+  },
+  "swem:recipes/misc/slow_feeder_white": {
+    "criteria": {
+      "has_dried_kelp": "2024-04-15 00:44:39 +0100"
+    },
+    "done": true
+  },
+  "swem:recipes/misc/half_barrel/half_barrel_black": {
+    "criteria": {
+      "has_half_barrels": "2024-04-15 00:44:39 +0100"
+    },
+    "done": true
+  },
+  "swem:recipes/misc/english_leg_wraps/english_leg_wraps_orange_from_leg_wraps": {
+    "criteria": {
+      "has_english_leg_wraps": "2024-04-15 01:28:29 +0100"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/anvil": {
+    "criteria": {
+      "has_iron_block": "2024-04-15 01:49:53 +0100"
+    },
+    "done": true
+  },
+  "swem:recipes/misc/slow_feeder_orange": {
+    "criteria": {
+      "has_dried_kelp": "2024-04-15 00:44:39 +0100"
+    },
+    "done": true
+  },
+  "swem:recipes/misc/english_blanket/english_blanket_yellow_from_blanket": {
+    "criteria": {
+      "has_english_blanket": "2024-04-15 01:28:29 +0100"
+    },
+    "done": true
+  },
+  "swem:recipes/misc/grain_feeder_gray": {
+    "criteria": {
+      "has_dried_kelp": "2024-04-15 00:44:39 +0100"
+    },
+    "done": true
+  },
+  "fairylights:recipes/fairylights/triangle_pennant": {
+    "criteria": {
+      "has_paper": "2024-04-14 23:13:32 +0100"
+    },
+    "done": true
+  },
+  "swem:recipes/misc/english_leg_wraps/english_leg_wraps_black_from_leg_wraps": {
+    "criteria": {
+      "has_english_leg_wraps": "2024-04-15 01:28:29 +0100"
+    },
+    "done": true
+  },
+  "swem:recipes/misc/adventure_saddle_usa": {
+    "criteria": {
+      "has_adventure_saddle": "2024-04-15 01:03:51 +0100"
+    },
+    "done": true
+  },
+  "swem:recipes/misc/western_breast_collar/western_breast_collar_white_from_breast_collar": {
+    "criteria": {
+      "has_western_breast_collar": "2024-04-15 01:02:48 +0100"
+    },
+    "done": true
+  },
+  "swem:recipes/misc/english_blanket/english_blanket_magenta_from_blanket": {
+    "criteria": {
+      "has_english_blanket": "2024-04-15 01:28:29 +0100"
+    },
+    "done": true
+  },
+  "swem:recipes/misc/pasture_blanket/pasture_blanket_light_gray": {
+    "criteria": {
+      "has_pasture_blanket": "2024-04-15 01:28:29 +0100"
+    },
+    "done": true
+  },
+  "swem:recipes/misc/western_girth_strap/western_girth_strap_gray_from_girth_strap": {
+    "criteria": {
+      "has_western_girth_strap": "2024-04-15 01:02:49 +0100"
+    },
+    "done": true
+  },
+  "constructionwand:recipes/tools/iron_wand": {
+    "criteria": {
+      "has_item": "2024-04-14 23:20:54 +0100"
+    },
+    "done": true
+  },
+  "swem:recipes/misc/english_blanket/english_blanket_cyan_from_blanket": {
+    "criteria": {
+      "has_english_blanket": "2024-04-15 01:28:29 +0100"
+    },
+    "done": true
+  },
+  "swem:recipes/misc/western_saddle/western_saddle_white_from_saddle": {
+    "criteria": {
+      "has_western_saddle": "2024-04-15 01:02:49 +0100"
+    },
+    "done": true
+  },
+  "swem:recipes/misc/lime_cone": {
+    "criteria": {
+      "has_dried_kelp": "2024-04-15 00:44:39 +0100"
+    },
+    "done": true
+  },
+  "alexscaves:alexscaves/desolate_dagger": {
+    "criteria": {
+      "desolate_dagger": "2024-04-14 23:16:32 +0100"
+    },
+    "done": true
+  },
+  "naturescompass:natures_compass": {
+    "criteria": {
+      "has_recipe": "2024-04-14 23:25:03 +0100"
+    },
+    "done": true
+  },
+  "swem:recipes/misc/saddle_bag/saddle_bag_green": {
+    "criteria": {
+      "has_refined_leather": "2024-04-15 01:02:48 +0100"
+    },
+    "done": true
+  },
+  "swem:recipes/misc/western_saddle/western_saddle_blue_from_saddle": {
+    "criteria": {
+      "has_western_saddle": "2024-04-15 01:02:49 +0100"
+    },
+    "done": true
+  },
+  "swem:recipes/misc/acacia_stall_care": {
+    "criteria": {
+      "has_bars": "2024-04-15 00:49:08 +0100"
+    },
+    "done": true
+  },
+  "swem:recipes/misc/english_blanket/english_blanket_magenta": {
+    "criteria": {
+      "has_english_blanket": "2024-04-15 01:28:29 +0100"
+    },
+    "done": true
+  },
+  "swem:recipes/misc/western_bridle/western_bridle_green": {
+    "criteria": {
+      "has_western_bridle": "2024-04-15 01:02:49 +0100"
+    },
+    "done": true
+  },
+  "swem:recipes/misc/pasture_blanket/pasture_blanket_yellow": {
+    "criteria": {
+      "has_pasture_blanket": "2024-04-15 01:28:29 +0100"
+    },
+    "done": true
+  },
+  "swem:recipes/misc/adventure_saddle_copper": {
+    "criteria": {
+      "has_adventure_saddle": "2024-04-15 01:03:51 +0100"
+    },
+    "done": true
+  },
+  "swem:recipes/misc/western_girth_strap/western_girth_strap_magenta_from_girth_strap": {
+    "criteria": {
+      "has_western_girth_strap": "2024-04-15 01:02:49 +0100"
+    },
+    "done": true
+  },
+  "bakery:recipes/sweet_dough": {
+    "criteria": {
+      "has_sugar": "2024-04-14 23:15:42 +0100"
+    },
+    "done": true
+  },
+  "swem:recipes/misc/light_gray_cone": {
+    "criteria": {
+      "has_dried_kelp": "2024-04-15 00:44:39 +0100"
+    },
+    "done": true
+  },
+  "swem:recipes/misc/half_barrel/half_barrel_lime": {
+    "criteria": {
+      "has_half_barrels": "2024-04-15 00:44:39 +0100"
+    },
+    "done": true
+  },
+  "swem:recipes/misc/western_girth_strap/western_girth_strap_orange": {
+    "criteria": {
+      "has_western_girth_strap": "2024-04-15 01:02:49 +0100"
+    },
+    "done": true
+  },
+  "swem:recipes/misc/western_saddle/western_saddle_white": {
+    "criteria": {
+      "has_western_saddle": "2024-04-15 01:02:49 +0100"
+    },
+    "done": true
+  },
+  "fairylights:recipes/fairylights/garland": {
+    "criteria": {
+      "has_iron": "2024-04-14 23:20:54 +0100"
+    },
+    "done": true
+  },
+  "swem:recipes/misc/western_bridle/western_bridle_cyan_from_bridle": {
+    "criteria": {
+      "has_western_bridle": "2024-04-15 01:02:49 +0100"
+    },
+    "done": true
+  },
+  "swem:recipes/misc/english_blanket/english_blanket_blue_from_blanket": {
+    "criteria": {
+      "has_english_blanket": "2024-04-15 01:28:29 +0100"
+    },
+    "done": true
+  },
+  "swem:recipes/misc/western_bridle/western_bridle_orange_from_bridle": {
+    "criteria": {
+      "has_western_bridle": "2024-04-15 01:02:48 +0100"
+    },
+    "done": true
+  },
+  "swem:recipes/misc/western_leg_wraps/western_leg_wraps_green_from_leg_wraps": {
+    "criteria": {
+      "has_western_leg_wraps": "2024-04-15 01:28:29 +0100"
+    },
+    "done": true
+  },
+  "swem:recipes/misc/western_girth_strap/western_girth_strap_purple_from_girth_strap": {
+    "criteria": {
+      "has_western_girth_strap": "2024-04-15 01:02:49 +0100"
+    },
+    "done": true
+  },
+  "swem:recipes/misc/pasture_blanket/pasture_blanket_magenta_armored_from_blanket": {
+    "criteria": {
+      "has_pasture_blanket_armored": "2024-04-15 01:28:29 +0100"
+    },
+    "done": true
+  },
+  "swem:recipes/misc/western_leg_wraps/western_leg_wraps_pink": {
+    "criteria": {
+      "has_western_leg_wraps": "2024-04-15 01:28:29 +0100"
+    },
+    "done": true
+  },
+  "swem:recipes/misc/half_barrel/half_barrel_blue": {
+    "criteria": {
+      "has_half_barrels": "2024-04-15 00:44:39 +0100"
+    },
+    "done": true
+  },
+  "swem:recipes/misc/saddle_bag/saddle_bag_white": {
+    "criteria": {
+      "has_refined_leather": "2024-04-15 01:02:49 +0100"
+    },
+    "done": true
+  },
+  "swem:recipes/misc/western_saddle/western_saddle_orange_from_saddle": {
+    "criteria": {
+      "has_western_saddle": "2024-04-15 01:02:49 +0100"
+    },
+    "done": true
+  },
+  "fairylights:recipes/fairylights/jack_o_lantern": {
+    "criteria": {
+      "has_iron": "2024-04-14 23:20:54 +0100"
+    },
+    "done": true
+  },
+  "swem:recipes/misc/slow_feeder_brown": {
+    "criteria": {
+      "has_dried_kelp": "2024-04-15 00:44:39 +0100"
+    },
+    "done": true
+  },
+  "swem:recipes/misc/english_leg_wraps/english_leg_wraps_light_blue": {
+    "criteria": {
+      "has_english_leg_wraps": "2024-04-15 01:28:29 +0100"
+    },
+    "done": true
+  },
+  "swem:recipes/misc/western_breast_collar/western_breast_collar_light_blue_from_breast_collar": {
+    "criteria": {
+      "has_western_breast_collar": "2024-04-15 01:02:49 +0100"
+    },
+    "done": true
+  },
+  "swem:recipes/misc/english_leg_wraps/english_leg_wraps_cyan_from_leg_wraps": {
+    "criteria": {
+      "has_english_leg_wraps": "2024-04-15 01:28:29 +0100"
+    },
+    "done": true
+  },
+  "swem:recipes/misc/saddle_bag/saddle_bag_lime": {
+    "criteria": {
+      "has_refined_leather": "2024-04-15 01:02:49 +0100"
+    },
+    "done": true
+  },
+  "swem:recipes/misc/western_blanket/western_blanket_brown_from_blanket": {
+    "criteria": {
+      "has_western_blanket": "2024-04-15 01:02:49 +0100"
+    },
+    "done": true
+  },
+  "supplementaries:adventure/way_sign": {
+    "criteria": {
+      "bastion": "2024-04-15 01:23:37 +0100"
+    },
+    "done": true
+  },
+  "swem:recipes/misc/western_blanket/western_blanket_yellow": {
+    "criteria": {
+      "has_western_blanket": "2024-04-15 01:02:49 +0100"
+    },
+    "done": true
+  },
+  "swem:recipes/misc/western_leg_wraps/western_leg_wraps_gray_from_leg_wraps": {
+    "criteria": {
+      "has_western_leg_wraps": "2024-04-15 01:28:29 +0100"
+    },
+    "done": true
+  },
+  "swem:recipes/misc/slow_feeder_blue": {
+    "criteria": {
+      "has_dried_kelp": "2024-04-15 00:44:39 +0100"
+    },
+    "done": true
+  },
+  "swem:recipes/misc/western_saddle/western_saddle_light_blue_from_saddle": {
+    "criteria": {
+      "has_western_saddle": "2024-04-15 01:02:49 +0100"
+    },
+    "done": true
+  },
+  "swem:recipes/misc/adventure_girth_strap": {
+    "criteria": {
+      "has_refined_leather": "2024-04-15 01:02:49 +0100"
+    },
+    "done": true
+  },
+  "swem:recipes/misc/western_girth_strap/western_girth_strap_red_from_girth_strap": {
+    "criteria": {
+      "has_western_girth_strap": "2024-04-15 01:02:48 +0100"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/iron_ingot_from_smelting_iron_ore": {
+    "criteria": {
+      "has_iron_ore": "2024-04-15 01:47:46 +0100"
+    },
+    "done": true
+  },
+  "swem:recipes/misc/western_leg_wraps/western_leg_wraps_blue_from_leg_wraps": {
+    "criteria": {
+      "has_western_leg_wraps": "2024-04-15 01:28:29 +0100"
+    },
+    "done": true
+  },
+  "swem:recipes/misc/western_breast_collar/western_breast_collar_light_gray": {
+    "criteria": {
+      "has_refined_leather": "2024-04-15 01:02:49 +0100"
+    },
+    "done": true
+  },
+  "fairylights:recipes/fairylights/witch_light": {
+    "criteria": {
+      "has_iron": "2024-04-14 23:20:54 +0100"
+    },
+    "done": true
+  },
+  "naturescompass:natures_compass_log": {
+    "criteria": {
+      "has_log": "2024-04-14 23:25:03 +0100"
+    },
+    "done": true
+  },
+  "swem:recipes/misc/halter/dye_halter_orange": {
+    "criteria": {
+      "has_halters": "2024-04-15 01:49:17 +0100"
+    },
+    "done": true
+  },
+  "fairylights:recipes/fairylights/fairy_light": {
+    "criteria": {
+      "has_iron": "2024-04-14 23:20:54 +0100"
+    },
+    "done": true
+  },
+  "swem:recipes/misc/western_breast_collar/western_breast_collar_black": {
+    "criteria": {
+      "has_refined_leather": "2024-04-15 01:02:48 +0100"
+    },
+    "done": true
+  },
+  "swem:recipes/misc/pasture_blanket/pasture_blanket_armored_light_blue": {
+    "criteria": {
+      "has_pasture_blanket_armored": "2024-04-15 01:28:29 +0100"
+    },
+    "done": true
+  },
+  "minecraft:story/form_obsidian": {
+    "criteria": {
+      "obsidian": "2024-04-14 23:13:33 +0100"
+    },
+    "done": true
+  },
+  "fairylights:recipes/fairylights/spearhead_pennant": {
+    "criteria": {
+      "has_paper": "2024-04-14 23:13:32 +0100"
+    },
+    "done": true
+  },
+  "swem:recipes/misc/english_leg_wraps/english_leg_wraps_magenta_from_leg_wraps": {
+    "criteria": {
+      "has_english_leg_wraps": "2024-04-15 01:28:29 +0100"
+    },
+    "done": true
+  },
+  "swem:recipes/misc/western_bridle/western_bridle_gray_from_bridle": {
+    "criteria": {
+      "has_western_bridle": "2024-04-15 01:02:49 +0100"
+    },
+    "done": true
+  },
+  "swem:recipes/misc/western_saddle/western_saddle_cyan": {
+    "criteria": {
+      "has_western_saddle": "2024-04-15 01:02:49 +0100"
+    },
+    "done": true
+  },
+  "swem:recipes/misc/western_bridle/western_bridle_blue": {
+    "criteria": {
+      "has_western_bridle": "2024-04-15 01:02:49 +0100"
+    },
+    "done": true
+  },
+  "swem:recipes/misc/english_girth_strap_black": {
+    "criteria": {
+      "has_refined_leather": "2024-04-15 01:02:49 +0100"
+    },
+    "done": true
+  },
+  "swem:recipes/misc/western_bridle/western_bridle_light_gray": {
+    "criteria": {
+      "has_western_bridle": "2024-04-15 01:02:49 +0100"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/gray_dye": {
+    "criteria": {
+      "has_white_dye": "2024-04-15 00:51:14 +0100"
+    },
+    "done": true
+  },
+  "swem:recipes/misc/western_bridle/western_bridle_lime": {
+    "criteria": {
+      "has_western_bridle": "2024-04-15 01:02:49 +0100"
+    },
+    "done": true
+  },
+  "swem:recipes/misc/pasture_blanket/pasture_blanket_lime_armored_from_blanket": {
+    "criteria": {
+      "has_pasture_blanket_armored": "2024-04-15 01:28:29 +0100"
+    },
+    "done": true
+  },
+  "swem:recipes/misc/english_leg_wraps/english_leg_wraps_light_blue_from_leg_wraps": {
+    "criteria": {
+      "has_english_leg_wraps": "2024-04-15 01:28:29 +0100"
+    },
+    "done": true
+  },
+  "swem:recipes/misc/english_blanket/english_blanket_pink_from_blanket": {
+    "criteria": {
+      "has_english_blanket": "2024-04-15 01:28:29 +0100"
+    },
+    "done": true
+  },
+  "swem:recipes/misc/western_girth_strap/western_girth_strap_magenta": {
+    "criteria": {
+      "has_western_girth_strap": "2024-04-15 01:02:49 +0100"
+    },
+    "done": true
+  },
+  "swem:recipes/misc/english_blanket/english_blanket_gray_from_blanket": {
+    "criteria": {
+      "has_english_blanket": "2024-04-15 01:28:29 +0100"
+    },
+    "done": true
+  },
+  "swem:recipes/misc/western_saddle/western_saddle_purple": {
+    "criteria": {
+      "has_western_saddle": "2024-04-15 01:02:49 +0100"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/magenta_dye_from_blue_red_white_dye": {
+    "criteria": {
+      "has_white_dye": "2024-04-15 00:51:14 +0100"
+    },
+    "done": true
+  },
+  "swem:recipes/misc/western_leg_wraps/western_leg_wraps_gray": {
+    "criteria": {
+      "has_western_leg_wraps": "2024-04-15 01:28:29 +0100"
+    },
+    "done": true
+  },
+  "swem:recipes/misc/halter/dye_halter_black": {
+    "criteria": {
+      "has_halters": "2024-04-15 01:49:17 +0100"
+    },
+    "done": true
+  },
+  "fairylights:recipes/fairylights/swallowtail_pennant": {
+    "criteria": {
+      "has_paper": "2024-04-14 23:13:32 +0100"
+    },
+    "done": true
+  },
+  "swem:recipes/misc/western_saddle/western_saddle_cyan_from_saddle": {
+    "criteria": {
+      "has_western_saddle": "2024-04-15 01:02:49 +0100"
+    },
+    "done": true
+  },
+  "swem:recipes/misc/slow_feeder_lime": {
+    "criteria": {
+      "has_dried_kelp": "2024-04-15 00:44:39 +0100"
+    },
+    "done": true
+  },
+  "fairylights:recipes/fairylights/ghost_light": {
+    "criteria": {
+      "has_iron": "2024-04-14 23:20:54 +0100"
+    },
+    "done": true
+  },
+  "swem:recipes/misc/western_leg_wraps/western_leg_wraps_magenta": {
+    "criteria": {
+      "has_western_leg_wraps": "2024-04-15 01:28:29 +0100"
+    },
+    "done": true
+  },
+  "swem:recipes/misc/saddle_bag/saddle_bag_blue": {
+    "criteria": {
+      "has_refined_leather": "2024-04-15 01:02:48 +0100"
+    },
+    "done": true
+  },
+  "swem:recipes/misc/western_bridle/western_bridle_red": {
+    "criteria": {
+      "has_western_bridle": "2024-04-15 01:02:49 +0100"
+    },
+    "done": true
+  },
+  "swem:recipes/misc/western_saddle/western_saddle_red_from_saddle": {
+    "criteria": {
+      "has_western_saddle": "2024-04-15 01:02:49 +0100"
+    },
+    "done": true
+  },
+  "swem:recipes/misc/english_blanket/english_blanket_light_gray": {
+    "criteria": {
+      "has_english_blanket": "2024-04-15 01:28:29 +0100"
+    },
+    "done": true
+  },
+  "swem:recipes/misc/toy_lick_salt": {
+    "criteria": {
+      "has_kelp": "2024-04-15 00:44:39 +0100"
+    },
+    "done": true
+  },
+  "swem:recipes/misc/western_bridle/western_bridle_blue_from_bridle": {
+    "criteria": {
+      "has_western_bridle": "2024-04-15 01:02:49 +0100"
+    },
+    "done": true
+  },
+  "swem:recipes/misc/spruce_stall_horse": {
+    "criteria": {
+      "has_bars": "2024-04-15 00:49:08 +0100"
+    },
+    "done": true
+  },
+  "swem:recipes/misc/english_blanket/english_blanket_white_from_blanket": {
+    "criteria": {
+      "has_english_blanket": "2024-04-15 01:28:29 +0100"
+    },
+    "done": true
+  },
+  "swem:recipes/misc/western_blanket/western_blanket_white_from_blanket": {
+    "criteria": {
+      "has_western_blanket": "2024-04-15 01:02:49 +0100"
+    },
+    "done": true
+  },
+  "swem:recipes/misc/western_leg_wraps/western_leg_wraps_magenta_from_leg_wraps": {
+    "criteria": {
+      "has_western_leg_wraps": "2024-04-15 01:28:29 +0100"
+    },
+    "done": true
+  },
+  "swem:recipes/misc/western_girth_strap/western_girth_strap_black_from_girth_strap": {
+    "criteria": {
+      "has_western_girth_strap": "2024-04-15 01:02:49 +0100"
+    },
+    "done": true
+  },
+  "swem:recipes/misc/oak_stall_horse": {
+    "criteria": {
+      "has_bars": "2024-04-15 00:49:08 +0100"
+    },
+    "done": true
+  },
+  "fairylights:recipes/fairylights/moon_light": {
+    "criteria": {
+      "has_iron": "2024-04-14 23:20:54 +0100"
+    },
+    "done": true
+  },
+  "fairylights:recipes/fairylights/candle_lantern_light": {
+    "criteria": {
+      "has_iron": "2024-04-14 23:20:54 +0100"
+    },
+    "done": true
+  },
+  "swem:recipes/misc/pasture_blanket/pasture_blanket_purple": {
+    "criteria": {
+      "has_pasture_blanket": "2024-04-15 01:28:29 +0100"
+    },
+    "done": true
+  },
+  "swem:recipes/misc/english_blanket/english_blanket_yellow": {
+    "criteria": {
+      "has_english_blanket": "2024-04-15 01:28:29 +0100"
+    },
+    "done": true
+  },
+  "swem:recipes/misc/grain_feeder_lime": {
+    "criteria": {
+      "has_dried_kelp": "2024-04-15 00:44:39 +0100"
+    },
+    "done": true
+  },
+  "storagedrawers:recipes/storagedrawers/warped_trim": {
+    "criteria": {
+      "has_planks": "2024-04-14 22:57:07 +0100"
+    },
+    "done": true
+  },
+  "swem:recipes/misc/western_breast_collar/western_breast_collar_yellow": {
+    "criteria": {
+      "has_refined_leather": "2024-04-15 01:02:49 +0100"
+    },
+    "done": true
+  },
+  "storagedrawers:recipes/storagedrawers/jungle_trim": {
+    "criteria": {
+      "has_planks": "2024-04-14 22:57:07 +0100"
+    },
+    "done": true
+  },
+  "swem:recipes/misc/grain_feeder_blue": {
+    "criteria": {
+      "has_dried_kelp": "2024-04-15 00:44:39 +0100"
+    },
+    "done": true
+  },
+  "swem:recipes/misc/english_leg_wraps/english_leg_wraps_magenta": {
+    "criteria": {
+      "has_english_leg_wraps": "2024-04-15 01:28:29 +0100"
+    },
+    "done": true
+  },
+  "swem:recipes/misc/english_blanket/english_blanket_orange_from_blanket": {
+    "criteria": {
+      "has_english_blanket": "2024-04-15 01:28:29 +0100"
+    },
+    "done": true
+  },
+  "swem:recipes/misc/english_blanket/english_blanket_lime": {
+    "criteria": {
+      "has_english_blanket": "2024-04-15 01:28:29 +0100"
+    },
+    "done": true
+  },
+  "swem:recipes/misc/western_blanket/western_blanket_black_from_blanket": {
+    "criteria": {
+      "has_western_blanket": "2024-04-15 01:02:49 +0100"
+    },
+    "done": true
+  },
+  "swem:recipes/misc/grain_feeder_light_blue": {
+    "criteria": {
+      "has_dried_kelp": "2024-04-15 00:44:39 +0100"
+    },
+    "done": true
+  },
+  "swem:recipes/misc/english_blanket/english_blanket_blue": {
+    "criteria": {
+      "has_english_blanket": "2024-04-15 01:28:29 +0100"
+    },
+    "done": true
+  },
+  "swem:recipes/misc/dark_oak_stall_care": {
+    "criteria": {
+      "has_bars": "2024-04-15 00:49:08 +0100"
+    },
+    "done": true
+  },
+  "swem:recipes/misc/english_leg_wraps/english_leg_wraps_pink_from_leg_wraps": {
+    "criteria": {
+      "has_english_leg_wraps": "2024-04-15 01:28:29 +0100"
+    },
+    "done": true
+  },
+  "swem:recipes/misc/western_girth_strap/western_girth_strap_lime_from_girth_strap": {
+    "criteria": {
+      "has_western_girth_strap": "2024-04-15 01:02:48 +0100"
+    },
+    "done": true
+  },
+  "swem:recipes/misc/western_bridle/western_bridle_magenta_from_bridle": {
+    "criteria": {
+      "has_western_bridle": "2024-04-15 01:02:49 +0100"
+    },
+    "done": true
+  },
+  "swem:recipes/misc/western_blanket/western_blanket_magenta": {
+    "criteria": {
+      "has_western_blanket": "2024-04-15 01:02:48 +0100"
+    },
+    "done": true
+  },
+  "swem:recipes/misc/pasture_blanket/pasture_blanket_brown": {
+    "criteria": {
+      "has_pasture_blanket": "2024-04-15 01:28:29 +0100"
+    },
+    "done": true
+  },
+  "swem:recipes/misc/saddle_bag/saddle_bag_light_blue": {
+    "criteria": {
+      "has_refined_leather": "2024-04-15 01:02:49 +0100"
+    },
+    "done": true
+  },
+  "swem:recipes/misc/western_blanket/western_blanket_purple_from_blanket": {
+    "criteria": {
+      "has_western_blanket": "2024-04-15 01:02:49 +0100"
+    },
+    "done": true
+  },
+  "swem:recipes/misc/pasture_blanket/pasture_blanket_armored_gray": {
+    "criteria": {
+      "has_pasture_blanket_armored": "2024-04-15 01:28:29 +0100"
+    },
+    "done": true
+  },
+  "swem:recipes/misc/english_leg_wraps/english_leg_wraps_green_from_leg_wraps": {
+    "criteria": {
+      "has_english_leg_wraps": "2024-04-15 01:28:29 +0100"
+    },
+    "done": true
+  },
+  "swem:recipes/misc/western_girth_strap/western_girth_strap_light_gray_from_girth_strap": {
+    "criteria": {
+      "has_western_girth_strap": "2024-04-15 01:02:49 +0100"
+    },
+    "done": true
+  },
+  "swem:recipes/misc/western_bridle/western_bridle_white": {
+    "criteria": {
+      "has_western_bridle": "2024-04-15 01:02:49 +0100"
+    },
+    "done": true
+  },
+  "swem:recipes/misc/western_leg_wraps/western_leg_wraps_orange_from_leg_wraps": {
+    "criteria": {
+      "has_western_leg_wraps": "2024-04-15 01:28:29 +0100"
+    },
+    "done": true
+  },
+  "swem:recipes/misc/western_breast_collar/western_breast_collar_pink_from_breast_collar": {
+    "criteria": {
+      "has_western_breast_collar": "2024-04-15 01:02:48 +0100"
+    },
+    "done": true
+  },
+  "storagedrawers:recipes/storagedrawers/redstone_upgrade": {
+    "criteria": {
+      "has_template": "2024-04-14 22:57:07 +0100"
+    },
+    "done": true
+  },
+  "fairylights:recipes/fairylights/meteor_light": {
+    "criteria": {
+      "has_iron": "2024-04-14 23:20:54 +0100"
+    },
+    "done": true
+  },
+  "swem:recipes/misc/green_cone": {
+    "criteria": {
+      "has_dried_kelp": "2024-04-15 00:44:39 +0100"
+    },
+    "done": true
+  },
+  "swem:recipes/misc/western_blanket/western_blanket_yellow_from_blanket": {
+    "criteria": {
+      "has_western_blanket": "2024-04-15 01:02:49 +0100"
+    },
+    "done": true
+  },
+  "swem:recipes/misc/birch_stall_horse": {
+    "criteria": {
+      "has_bars": "2024-04-15 00:49:08 +0100"
+    },
+    "done": true
+  },
+  "swem:recipes/misc/western_saddle/western_saddle_yellow": {
+    "criteria": {
+      "has_western_saddle": "2024-04-15 01:02:49 +0100"
+    },
+    "done": true
+  },
+  "swem:recipes/misc/western_saddle/western_saddle_brown_from_saddle": {
+    "criteria": {
+      "has_western_saddle": "2024-04-15 01:02:49 +0100"
+    },
+    "done": true
+  },
+  "fairylights:recipes/fairylights/paper_lantern": {
+    "criteria": {
+      "has_iron": "2024-04-14 23:20:54 +0100"
+    },
+    "done": true
+  },
+  "swem:recipes/misc/western_blanket/western_blanket_light_gray": {
+    "criteria": {
+      "has_western_blanket": "2024-04-15 01:02:48 +0100"
+    },
+    "done": true
+  },
+  "fairylights:recipes/fairylights/square_pennant": {
+    "criteria": {
+      "has_paper": "2024-04-14 23:13:32 +0100"
+    },
+    "done": true
+  },
+  "swem:recipes/misc/western_blanket/western_blanket_green": {
+    "criteria": {
+      "has_western_blanket": "2024-04-15 01:02:49 +0100"
+    },
+    "done": true
+  },
+  "swem:recipes/misc/english_leg_wraps/english_leg_wraps_cyan": {
+    "criteria": {
+      "has_english_leg_wraps": "2024-04-15 01:28:29 +0100"
+    },
+    "done": true
+  },
+  "swem:recipes/misc/western_saddle/western_saddle_green": {
+    "criteria": {
+      "has_western_saddle": "2024-04-15 01:02:49 +0100"
+    },
+    "done": true
+  },
+  "swem:recipes/misc/western_girth_strap/western_girth_strap_lime": {
+    "criteria": {
+      "has_western_girth_strap": "2024-04-15 01:02:49 +0100"
+    },
+    "done": true
+  },
+  "swem:recipes/misc/pasture_blanket/pasture_blanket_armored_magenta": {
+    "criteria": {
+      "has_pasture_blanket_armored": "2024-04-15 01:28:29 +0100"
+    },
+    "done": true
+  },
+  "swem:recipes/misc/western_blanket/western_blanket_magenta_from_blanket": {
+    "criteria": {
+      "has_western_blanket": "2024-04-15 01:02:48 +0100"
+    },
+    "done": true
+  },
+  "swem:recipes/misc/western_breast_collar/western_breast_collar_lime_from_breast_collar": {
+    "criteria": {
+      "has_western_breast_collar": "2024-04-15 01:02:48 +0100"
+    },
+    "done": true
+  },
+  "swem:recipes/misc/western_girth_strap/western_girth_strap_blue": {
+    "criteria": {
+      "has_western_girth_strap": "2024-04-15 01:02:49 +0100"
+    },
+    "done": true
+  },
+  "fairylights:recipes/fairylights/spider_light": {
+    "criteria": {
+      "has_iron": "2024-04-14 23:20:54 +0100"
+    },
+    "done": true
+  },
+  "storagedrawers:recipes/storagedrawers/dark_oak_trim": {
+    "criteria": {
+      "has_planks": "2024-04-14 22:57:08 +0100"
+    },
+    "done": true
+  },
+  "swem:recipes/misc/western_girth_strap/western_girth_strap_light_blue": {
+    "criteria": {
+      "has_western_girth_strap": "2024-04-15 01:02:49 +0100"
+    },
+    "done": true
+  },
+  "swem:recipes/misc/english_blanket/english_blanket_green_from_blanket": {
+    "criteria": {
+      "has_english_blanket": "2024-04-15 01:28:29 +0100"
+    },
+    "done": true
+  },
+  "forbidden_arcanus:recipes/misc/clibano_combustion/iron_ingot_from_clibano_combusting": {
+    "criteria": {
+      "has_item": "2024-04-15 01:47:46 +0100"
+    },
+    "done": true
+  },
+  "swem:recipes/misc/slow_feeder_purple": {
+    "criteria": {
+      "has_dried_kelp": "2024-04-15 00:44:39 +0100"
+    },
+    "done": true
+  },
+  "swem:recipes/misc/western_bridle/western_bridle_yellow_from_bridle": {
+    "criteria": {
+      "has_western_bridle": "2024-04-15 01:02:49 +0100"
+    },
+    "done": true
+  },
+  "friendsandfoes:husbandry/beehive": {
+    "criteria": {
+      "beehive": "2024-04-14 23:17:16 +0100"
+    },
+    "done": false
+  },
+  "swem:recipes/misc/western_saddle/western_saddle_black_from_saddle": {
+    "criteria": {
+      "has_western_saddle": "2024-04-15 01:02:49 +0100"
+    },
+    "done": true
+  },
+  "swem:recipes/misc/pasture_blanket/pasture_blanket_blue": {
+    "criteria": {
+      "has_pasture_blanket": "2024-04-15 01:28:29 +0100"
+    },
+    "done": true
+  },
+  "occultism:recipes/crushing/crushing/obsidian_dust": {
+    "criteria": {
+      "has_obsidian": "2024-04-14 23:13:33 +0100"
+    },
+    "done": true
+  },
+  "swem:recipes/misc/pasture_blanket/pasture_blanket_blue_armored_from_blanket": {
+    "criteria": {
+      "has_pasture_blanket_armored": "2024-04-15 01:28:29 +0100"
+    },
+    "done": true
+  },
+  "swem:recipes/misc/western_blanket/western_blanket_white": {
+    "criteria": {
+      "has_western_blanket": "2024-04-15 01:02:49 +0100"
+    },
+    "done": true
+  },
+  "railways:recipes/misc/stonecutting/riveted_locometal": {
+    "criteria": {
+      "has_item": "2024-04-15 01:49:53 +0100"
+    },
+    "done": true
+  },
+  "swem:recipes/misc/western_saddle/western_saddle_light_blue": {
+    "criteria": {
+      "has_western_saddle": "2024-04-15 01:02:49 +0100"
+    },
+    "done": true
+  },
+  "swem:recipes/misc/english_blanket/english_blanket_brown_from_blanket": {
+    "criteria": {
+      "has_english_blanket": "2024-04-15 01:28:29 +0100"
+    },
+    "done": true
+  },
+  "swem:recipes/misc/adventure_bridle": {
+    "criteria": {
+      "has_refined_leather": "2024-04-15 01:02:49 +0100"
+    },
+    "done": true
+  },
+  "chipped:recipes/mason_table": {
+    "criteria": {
+      "has_mason_table": "2024-04-14 23:25:11 +0100"
+    },
+    "done": true
+  },
+  "swem:recipes/misc/pasture_blanket/pasture_blanket_lime": {
+    "criteria": {
+      "has_pasture_blanket": "2024-04-15 01:28:29 +0100"
+    },
+    "done": true
+  },
+  "swem:recipes/misc/pasture_blanket/pasture_blanket_yellow_armored_from_blanket": {
+    "criteria": {
+      "has_pasture_blanket_armored": "2024-04-15 01:28:29 +0100"
+    },
+    "done": true
+  },
+  "rechiseled:recipes/misc/chisel": {
+    "criteria": {
+      "recipe_condition": "2024-04-14 23:20:54 +0100"
+    },
+    "done": true
+  },
+  "swem:recipes/misc/saddle_bag/saddle_bag_purple": {
+    "criteria": {
+      "has_refined_leather": "2024-04-15 01:02:49 +0100"
     },
     "done": true
   },
